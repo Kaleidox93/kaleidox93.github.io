@@ -1,9 +1,7 @@
-tags:
-- radio
 ---
-id: 84
+ID:  84
 title: 'A Brief History of Ham'
-date: '2023-07-04T10:05:35-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=84'

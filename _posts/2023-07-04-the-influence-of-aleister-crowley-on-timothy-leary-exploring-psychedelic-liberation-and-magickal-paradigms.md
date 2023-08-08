@@ -1,10 +1,8 @@
-tags:
-- psychedelia
 - magick
 ---
-id: 86
+ID:  86
 title: "'The Influence of Aleister Crowley on Timothy Leary: Exploring Psychedelic Liberation and Magickal Paradigms'"
-date: '2023-07-04T15:06:58-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=86'

@@ -1,9 +1,7 @@
-tags:
-- music
 ---
-id: 927
+ID:  927
 title: "'Exploring the Enigmatic Depths: A Deep Dive into Dark Ambient Music'"
-date: '2023-07-07T18:00:59-05:00'
+date: 2023-07-07
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/exploring-the-enigmatic-depths-a-deep-dive-into-dark-ambient-music/'

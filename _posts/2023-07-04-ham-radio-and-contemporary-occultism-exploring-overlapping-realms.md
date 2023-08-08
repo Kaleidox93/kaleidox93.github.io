@@ -1,10 +1,8 @@
-tags:
-- radio
 - humor
 ---
-id: 99
+ID:  99
 title: "'Ham Radio and Contemporary Occultism: Exploring Overlapping Realms'"
-date: '2023-07-04T10:13:06-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=99'

@@ -1,10 +1,8 @@
-tags:
-- magick
 - psychedelia
 ---
-id: 103
+ID:  103
 title: 'Brainwave Entrainment with Hemispheric Synchronization'
-date: '2023-07-04T10:14:38-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=103'

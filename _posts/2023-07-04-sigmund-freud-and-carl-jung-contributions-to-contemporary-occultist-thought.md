@@ -1,10 +1,8 @@
-tags:
-- magick
 - history
 ---
-id: 110
+ID:  110
 title: "'Sigmund Freud and Carl Jung: Contributions to Contemporary Occultist Thought'"
-date: '2023-07-04T10:21:08-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=110'

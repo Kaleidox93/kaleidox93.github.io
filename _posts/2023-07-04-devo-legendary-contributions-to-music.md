@@ -1,9 +1,7 @@
-tags:
-- music
 ---
-id: 66
+ID:  66
 title: "'Devo: The Contributions of these Legendary Pioneers'"
-date: '2023-07-04T14:56:00-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=66'

@@ -1,10 +1,8 @@
-tags:
-- humor
 - history
 ---
-id: 132
+ID:  132
 title: "'The Divine Felines: Cats in Ancient Egypt, the Black Death, Witchcraft, and Aleister Crowley&#8217;s Fascination'"
-date: '2023-07-04T11:01:23-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=132'

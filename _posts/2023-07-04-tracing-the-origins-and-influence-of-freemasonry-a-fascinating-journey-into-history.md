@@ -1,9 +1,7 @@
-tags:
-- groups
 ---
-id: 126
+ID:  126
 title: "'Tracing the Origins and Influence of Freemasonry: A Fascinating Journey into History'"
-date: '2023-07-04T10:58:29-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=126'

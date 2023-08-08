@@ -1,9 +1,7 @@
-tags:
-- radio
 ---
-id: 936
+ID:  936
 title: 'Notes on WSPR Mode'
-date: '2023-07-07T18:13:51-05:00'
+date: 2023-07-07
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/notes-on-wspr-mode/'

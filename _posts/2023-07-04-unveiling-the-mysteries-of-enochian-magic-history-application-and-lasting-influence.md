@@ -1,9 +1,7 @@
-tags:
-- magick
 ---
-id: 78
+ID:  78
 title: "'Unveiling the Mysteries of Enochian Magic: History, Application, and Lasting Influence'"
-date: '2023-07-04T15:01:34-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=78'

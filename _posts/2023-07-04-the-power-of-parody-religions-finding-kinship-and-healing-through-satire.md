@@ -1,11 +1,9 @@
-tags:
-- humor
 - magick
 - history
 ---
-id: 68
+ID:  68
 title: "'The Power of Parody Religions: Finding Kinship and Healing Through Satire'"
-date: '2023-07-04T14:57:28-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=68'

@@ -1,9 +1,7 @@
-tags:
-- magick
 ---
-id: 64
+ID:  64
 title: 'The Mechanics of NLP'
-date: '2023-07-04T09:54:56-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=64'

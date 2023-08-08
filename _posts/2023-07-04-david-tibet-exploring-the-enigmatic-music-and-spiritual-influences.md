@@ -1,9 +1,7 @@
-tags:
-- music
 ---
-id: 101
+ID:  101
 title: "'David Tibet: Exploring the Enigmatic Music and Spiritual Influences'"
-date: '2023-07-04T10:13:48-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=101'

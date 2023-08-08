@@ -1,10 +1,8 @@
-tags:
-- magick
 - psychedelia
 ---
-id: 105
+ID:  105
 title: 'Light Sound Machines for Brainwave Entrainment'
-date: '2023-07-04T10:15:41-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=105'

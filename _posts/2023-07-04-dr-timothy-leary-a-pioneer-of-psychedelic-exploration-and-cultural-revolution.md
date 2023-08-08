@@ -1,9 +1,7 @@
-tags:
-- psychedelia
 ---
-id: 88
+ID:  88
 title: "'Dr. Timothy Leary: A Pioneer of Psychedelic Exploration and Cultural Revolution'"
-date: '2023-07-04T15:07:54-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=88'

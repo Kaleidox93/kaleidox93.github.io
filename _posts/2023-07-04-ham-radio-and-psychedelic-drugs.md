@@ -1,10 +1,8 @@
-tags:
-- radio
 - humor
 ---
-id: 82
+ID:  82
 title: 'Ham Radio and Psychedelic Drugs'
-date: '2023-07-04T10:04:12-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=82'

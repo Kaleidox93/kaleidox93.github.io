@@ -1,9 +1,7 @@
-tags:
-- groups
 ---
-id: 140
+ID:  140
 title: 'Notes on Masonry and Comparison to Other Orders'
-date: '2023-07-08T16:09:16-05:00'
+date: 2023-07-08
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=140'

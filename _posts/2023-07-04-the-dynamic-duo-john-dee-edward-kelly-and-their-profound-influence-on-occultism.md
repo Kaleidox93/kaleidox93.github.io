@@ -1,9 +1,7 @@
-tags:
-- magick
 ---
-id: 112
+ID:  112
 title: "'The Dynamic Duo: John Dee, Edward Kelly, and Their Profound Influence on Occultism'"
-date: '2023-07-04T15:22:06-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=112'

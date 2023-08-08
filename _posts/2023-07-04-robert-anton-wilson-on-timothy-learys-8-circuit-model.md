@@ -1,10 +1,8 @@
-tags:
-- psychedelia
 - magick
 ---
-id: 90
+ID:  90
 title: 'Robert Anton Wilson, on Timothy Leary&#8217;s 8 Circuit Model'
-date: '2023-07-04T15:08:51-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=90'

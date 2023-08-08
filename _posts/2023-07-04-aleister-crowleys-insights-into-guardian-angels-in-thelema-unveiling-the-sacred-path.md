@@ -1,10 +1,8 @@
-tags:
-- thelema
 - magick
 ---
-id: 134
+ID:  134
 title: "\_Aleister Crowley&#8217;s Insights Into Guardian Angels in Thelema: Unveiling the Sacred Path"
-date: '2023-07-04T11:02:12-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=134'

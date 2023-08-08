@@ -1,9 +1,7 @@
-tags:
-- magick
 ---
-id: 138
+ID:  138
 title: 'Is Magick &#8220;Real&#8221;?'
-date: '2023-07-04T11:03:28-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=138'

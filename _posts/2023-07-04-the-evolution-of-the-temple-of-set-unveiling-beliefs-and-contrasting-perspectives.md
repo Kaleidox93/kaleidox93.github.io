@@ -1,9 +1,7 @@
-tags:
-- magick
 ---
-id: 62
+ID:  62
 title: "'The Evolution of the Temple of Set: Unveiling Beliefs and Contrasting Perspectives'"
-date: '2023-07-04T14:53:37-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=62'

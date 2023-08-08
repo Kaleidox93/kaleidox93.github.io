@@ -1,9 +1,7 @@
-tags:
-- fiction
 ---
-id: 954
+ID:  954
 title: 'Maldoror Meets Joker'
-date: '2023-07-08T21:57:51-05:00'
+date: 2023-07-08
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/maldoror-meets-joker/'

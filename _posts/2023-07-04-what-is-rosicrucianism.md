@@ -1,10 +1,8 @@
-tags:
-- magick
 - groups
 ---
-id: 56
+ID:  56
 title: 'What is Rosicrucianism?'
-date: '2023-07-04T14:48:07-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=56'

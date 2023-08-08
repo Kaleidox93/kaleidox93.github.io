@@ -1,9 +1,7 @@
-tags:
-- psychedelia
 ---
-id: 95
+ID:  95
 title: 'Microdosing LSD'
-date: '2023-07-04T15:11:25-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=95'

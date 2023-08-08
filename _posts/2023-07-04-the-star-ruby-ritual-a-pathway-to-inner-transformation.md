@@ -1,10 +1,8 @@
-tags:
-- thelema
 - magick
 ---
-id: 107
+ID:  107
 title: "'Star Ruby Ritual: A Pathway to Inner Transformation'"
-date: '2023-07-04T04:02:59-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=107'

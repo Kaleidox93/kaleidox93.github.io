@@ -1,9 +1,7 @@
-tags:
-- music
 ---
-id: 97
+ID:  97
 title: 'The History of Ghost and Their Occult Metal Legacy'
-date: '2023-07-04T10:12:22-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=97'

@@ -1,9 +1,7 @@
-tags:
-- music
 ---
-id: 923
+ID:  923
 title: "'The Symbiosis of Sensations: Frissons and Dark Ambient Music'"
-date: '2023-07-07T17:58:27-05:00'
+date: 2023-07-07
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/the-symbiosis-of-sensations-exploring-asmr-frissons-and-dark-ambient-music/'

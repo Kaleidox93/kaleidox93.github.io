@@ -1,9 +1,7 @@
-tags:
-- history
 ---
-id: 881
+ID:  881
 title: "'Eastern Philosophies and Western Religions: Exploring Contrasts and Lessons for Humanity'"
-date: '2023-07-05T20:10:19-05:00'
+date: 2023-07-05
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/eastern-philosophies-and-western-religions-exploring-contrasts-and-lessons-for-humanity/'

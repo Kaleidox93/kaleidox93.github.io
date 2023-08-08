@@ -1,10 +1,8 @@
-tags:
-- thelema
 - magick
 ---
-id: 1028
+ID:  1028
 title: 'The Role of the Ars Goetia within Thelema'
-date: '2023-07-18T22:08:32-05:00'
+date: 2023-07-18
 author: Tobit
 layout: post
 guid: 'https://www.virginorpigeon.com/the-role-of-the-ars-goetia-within-thelema/'

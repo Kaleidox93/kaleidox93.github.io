@@ -1,9 +1,7 @@
-tags:
-- music
 ---
-id: 929
+ID:  929
 title: 'The Musical Journey of Coil'
-date: '2023-07-07T18:05:15-05:00'
+date: 2023-07-07
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/the-musical-journey-of-coil/'

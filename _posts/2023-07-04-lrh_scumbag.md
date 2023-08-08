@@ -1,11 +1,9 @@
-tags:
-- magic
 - history
 - thelema
 ---
-id: 48
+ID:  48
 title: "The Intriguing History of L. Ron Hubbard, Aleister Crowley, Jack Parsons, and \_Marjorie Cameron"
-date: '2023-07-04T09:43:20-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=48'

@@ -1,9 +1,7 @@
-tags:
-- magick
 ---
-id: 117
+ID:  117
 title: "'Exploring Mindfulness: History, Techniques, Benefits, and Medical Evidence'"
-date: '2023-07-04T10:24:28-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=117'

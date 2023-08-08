@@ -1,10 +1,8 @@
-tags:
-- magick
 - thelema
 ---
-id: 883
+ID:  883
 title: "'Thelema: Eastern and Western Individualism'"
-date: '2023-07-05T20:15:21-05:00'
+date: 2023-07-05
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/thelema-eastern-and-western-individualism/'

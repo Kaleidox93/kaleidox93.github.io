@@ -1,9 +1,7 @@
-tags:
-- magick
 ---
-id: 60
+ID:  60
 title: 'The Development of an Exo-Toxic Memetype'
-date: '2023-07-04T09:52:47-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=60'

@@ -1,10 +1,8 @@
-tags:
-- groups
 - magick
 ---
-id: 44
+ID:  44
 title: "'Title: Understanding the Operating Thetan Levels of Scientology'"
-date: '2023-07-04T09:39:18-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=44'

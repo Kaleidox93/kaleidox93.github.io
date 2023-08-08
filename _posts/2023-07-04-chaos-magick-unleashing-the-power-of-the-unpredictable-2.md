@@ -1,9 +1,7 @@
-tags:
-- magick
 ---
-id: 76
+ID:  76
 title: "'Chaos Magick: Unleashing the Power of the Unpredictable'"
-date: '2023-07-04T10:00:39-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=76'

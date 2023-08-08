@@ -1,10 +1,8 @@
-tags:
-- thelema
 - magick
 ---
-id: 122
+ID:  122
 title: 'Aleister Crowley and the Influence of Occult Organizations on Thelema'
-date: '2023-07-04T10:56:18-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=122'

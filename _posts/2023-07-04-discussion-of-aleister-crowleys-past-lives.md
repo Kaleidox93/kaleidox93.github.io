@@ -1,10 +1,8 @@
-tags:
-- magick
 - thelema
 ---
-id: 80
+ID:  80
 title: 'Discussion of Aleister Crowley&#8217;s Past Lives'
-date: '2023-07-04T10:03:04-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=80'

@@ -1,11 +1,9 @@
-tags:
-- groups
 - magick
 - thelema
 ---
-id: 70
+ID:  70
 title: "'A Comparative Analysis of Scientology and Thelema: Uncovering Similarities and Discerning Differences'"
-date: '2023-07-04T09:58:43-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=70'

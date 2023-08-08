@@ -1,11 +1,9 @@
-tags:
-- psychedelia
 - magick
 - history
 ---
-id: 93
+ID:  93
 title: 'Dr. Timothy Leary&#8217;s 8 Circuit Model of Consciousness'
-date: '2023-07-04T15:10:32-05:00'
+date: 2023-07-04
 author: Tobit
 layout: post
 guid: 'https://virginorpigeon.com/?p=93'
