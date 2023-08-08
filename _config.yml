@@ -4,7 +4,7 @@ subtitle: Liber AL vel Legis
 #email: youremailaddress@gmail.com
 description: "We place no reliance on virgin or pigeon; our method is science, our aim is religion." # it will display as the sub-title
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://192.168.75.65:4000"  # the base hostname & protocol for your site
+url: "https://www.virginorpigeon.xyz"  # the base hostname & protocol for your site
 author: Aiwass
 #$street_address: 1234 Somewhere Road
 #c#ity: Nashville
