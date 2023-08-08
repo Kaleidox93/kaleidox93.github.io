@@ -1,7 +1,7 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+title: 0=2
+subtitle: Liber AL vel Legis
+#email: youremailaddress@gmail.com
 description: "We place no reliance on virgin or pigeon; our method is science, our aim is religion." # it will display as the sub-title
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://192.168.75.65:4000"  # the base hostname & protocol for your site
@@ -22,7 +22,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/Kaleidox93
 #  GitLab:
 #  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
 #  Instagram:
