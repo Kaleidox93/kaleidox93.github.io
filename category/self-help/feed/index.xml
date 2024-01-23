@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>Microdosing LSD</title>
 		<link>/microdosing-lsd/</link>
 		
@@ -40,7 +37,7 @@
 		<category><![CDATA[Psychedelia]]></category>
 		<category><![CDATA[Self Help]]></category>
 		<category><![CDATA[Technoshamanism]]></category>
-		<guid isPermaLink="false">/?p=95</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=95</guid>
 
 					<description><![CDATA[Microdosing LSD has gained significant attention in recent years as a contemporary practice for personal growth, cognitive enhancement, and exploring altered states of consciousness. This approach involves taking sub-perceptual doses of LSD, typically a fraction of a standard recreational dose, on a regular basis. Microdosers report a range of benefits, including increased creativity, focus, emotional well-being, and heightened sensory perception. To understand the contemporary practice of microdosing LSD, it is important to explore the pioneering work of Albert Hofmann, the resurgence of interest in microdosing, and the contributions of researchers like James Fadiman. Bicycle Day Albert Hofmann, &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -149,7 +146,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">95</post-id>	</item>
+			</item>
 		<item>
 		<title>Dr. Timothy Leary&#8217;s 8 Circuit Model of Consciousness</title>
 		<link>/dr-timothy-learys-8-circuit-model-of-consciousness/</link>
@@ -159,7 +156,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Psychedelia]]></category>
 		<category><![CDATA[Self Help]]></category>
-		<guid isPermaLink="false">/?p=93</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=93</guid>
 
 					<description><![CDATA[Timothy Leary&#8217;s 8 circuit model of consciousness is a conceptual framework that outlines different stages or circuits of human consciousness and evolution. It provides a map for understanding the potential development and expansion of human awareness. The model suggests that each circuit represents a distinct level of consciousness and corresponds to specific psychological, neurological, and experiential states. Here is a brief overview of Timothy Leary&#8217;s 8 circuit model: 1. The Bio-Survival Circuit: This is the first and most basic circuit, associated with the survival instincts and the basic drives for food, shelter, and reproduction. It is primarily &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -244,7 +241,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">93</post-id>	</item>
+			</item>
 		<item>
 		<title>The Power of Parody Religions: Finding Kinship and Healing Through Satire</title>
 		<link>/parody-religions/</link>
@@ -256,7 +253,7 @@
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Self Help]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=68</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=68</guid>
 
 					<description><![CDATA[Parody: The Healing Voice of No Reason Parody religions challenge conventional norms, and offer unique perspectives on spirituality. In a world dominated by mainstream religions, this is necessary.. They are satirical religions that seem unconventional or even nonsensical. However, they serve the profound purpose of giving shelter to those needing it. They offer solace, community, and a sense of belonging to those who find themselves at odds with traditional religious institutions. In this post, we will explore how these groups can be socially healthy, offering a haven for those who need it. . The Church of the &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -491,94 +488,12 @@
 <p>The Suggestions of Discordianism, like the philosophy behind many parody religions, must be taken with humor and irony. They serve as a reminder to challenge rigid thinking, embrace chaos, and find joy in the absurdities of life. Through these playful suggestions, we can create a framework that celebrates individuality, critical thinking, and the liberation of the mind. These core principles embrace absurdity, skepticism, and the challenging of established beliefs. They do so by using humor and satire as tools for personal liberation and subversion of societal norms. And the Goddess knows, we need more subversion of the norm.</p>
 
 
-		<div id="serious-slider-44-rnd8378" class="cryout-serious-slider seriousslider serious-slider-44-rnd8378 cryout-serious-slider-44 seriousslider-overlay1 seriousslider-theme seriousslider-shadow-none seriousslider-responsive-maintain seriousslider-hidetitles-0 seriousslider-parallax seriousslider-sizing1 seriousslider-aligncenter seriousslider-caption-animation-slide seriousslider-textstyle-textshadow" data-ride="seriousslider">
-			<div class="seriousslider-inner" role="listbox">
-
-			
-			<div class="item slide-1 active" role="option">
-								<a  href="https://www.subgenius.com/" target="_blank">
-					<img fetchpriority="high" decoding="async" class="item-image" src="/wp-content/uploads/2024/01/stsmall507x507-pad600x600f8f8f8-1.jpg" alt="Bob Dobbs" width="1024" height="768">
-				</a>
-												<div class="seriousslider-caption">
-					<div class="seriousslider-caption-inside">
-						<div class="seriousslider-caption-title"><span>Bob Dobbs</span></div>												<div class="seriousslider-caption-buttons">
-																								<a class="seriousslider-button" href="https://www.subgenius.com/" >Click Me</a>
-																																				</div>
-					</div><!--seriousslider-caption-inside-->
-				</div><!--seriousslider-caption-->
-								<div class="seriousslider-hloader"></div>
-				<figure class="seriousslider-cloader">
-					<svg width="200" height="200">
-						<circle cx="95" cy="95" r="20" transform="rotate(-90, 95, 95)"/>
-					</svg>
-			  </figure>
-			</div>
-
-			
-			<div class="item slide-2 " role="option">
-								<a  href="https://www.cs.cmu.edu/~tilt/principia/" target="_blank">
-					<img decoding="async" class="item-image" src="/wp-content/uploads/2024/01/ray-chao-2.jpg" alt="Discordianism" width="1024" height="768">
-				</a>
-												<div class="seriousslider-caption">
-					<div class="seriousslider-caption-inside">
-						<div class="seriousslider-caption-title"><span>Discordianism</span></div>												<div class="seriousslider-caption-buttons">
-																								<a class="seriousslider-button" href="https://www.cs.cmu.edu/~tilt/principia/" target="_blank">Click Me!</a>
-																																				</div>
-					</div><!--seriousslider-caption-inside-->
-				</div><!--seriousslider-caption-->
-								<div class="seriousslider-hloader"></div>
-				<figure class="seriousslider-cloader">
-					<svg width="200" height="200">
-						<circle cx="95" cy="95" r="20" transform="rotate(-90, 95, 95)"/>
-					</svg>
-			  </figure>
-			</div>
-
-			
-			<div class="item slide-3 " role="option">
-								<a  href="https://www.spaghettimonster.org/" target="_blank">
-					<img decoding="async" class="item-image" src="/wp-content/uploads/2024/01/pasta-2.jpg" alt="Flying Spaghetti Monster" width="1024" height="768">
-				</a>
-												<div class="seriousslider-caption">
-					<div class="seriousslider-caption-inside">
-						<div class="seriousslider-caption-title"><span>Flying Spaghetti Monster</span></div>												<div class="seriousslider-caption-buttons">
-																								<a class="seriousslider-button" href="https://www.spaghettimonster.org/" target="_blank">Click Me!</a>
-																																				</div>
-					</div><!--seriousslider-caption-inside-->
-				</div><!--seriousslider-caption-->
-								<div class="seriousslider-hloader"></div>
-				<figure class="seriousslider-cloader">
-					<svg width="200" height="200">
-						<circle cx="95" cy="95" r="20" transform="rotate(-90, 95, 95)"/>
-					</svg>
-			  </figure>
-			</div>
-
-						</div>
-
-			<div class="seriousslider-indicators">
-				<ol class="seriousslider-indicators-inside">
-										<li data-target="#serious-slider-44-rnd8378" data-slide-to="0" class="active"></li>
-										<li data-target="#serious-slider-44-rnd8378" data-slide-to="1" ></li>
-										<li data-target="#serious-slider-44-rnd8378" data-slide-to="2" ></li>
-									</ol>
-			</div>
-
-			<button class="left seriousslider-control" data-target="#serious-slider-44-rnd8378" role="button" data-slide="prev">
-			  <span class="sicon-prev control-arrow" aria-hidden="true"></span>
-			  <span class="sr-only">Previous Slide</span>
-			</button>
-			<button class="right seriousslider-control" data-target="#serious-slider-44-rnd8378" role="button" data-slide="next">
-			  <span class="sicon-next control-arrow" aria-hidden="true"></span>
-			  <span class="sr-only">Next Slide</span>
-			</button>
-		</div>
-		
+<p>[serious-slider id=44]</p>
 ]]></content:encoded>
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">68</post-id>	</item>
+			</item>
 		<item>
 		<title>Exploring Mindfulness: History, Techniques, Benefits, and Medical Evidence</title>
 		<link>/exploring-mindfulness-history-techniques-benefits-and-medical-evidence/</link>
@@ -588,7 +503,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Self Help]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=117</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=117</guid>
 
 					<description><![CDATA[Mindfulness has gained significant popularity in recent years as a practice that promotes well-being and inner calm. This article delves into the history, techniques, benefits, and medical evidence supporting mindfulness. Additionally, we will compare and contrast mindfulness with other meditation techniques, such as Transcendental Meditation (TM), to provide a comprehensive understanding of these practices. I. History of Mindfulness: A. Origins in Ancient Traditions: Mindfulness traces its roots to ancient contemplative practices found in Buddhist and Hindu traditions. These practices focused on cultivating awareness, presence, and non-judgmental observation. B. Influence of Jon Kabat-Zinn: The modern mindfulness movement gained &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -693,7 +608,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">117</post-id>	</item>
+			</item>
 		<item>
 		<title>Alan Watts: Exploring His Life, Teachings, and Influences</title>
 		<link>/alan-watts-exploring-his-life-teachings-and-influences/</link>
@@ -702,7 +617,7 @@
 		<pubDate>Tue, 04 Jul 2023 15:23:27 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Self Help]]></category>
-		<guid isPermaLink="false">/?p=115</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=115</guid>
 
 					<description><![CDATA[Alan Watts was a prominent philosopher, writer, and speaker known for his unique perspectives on Eastern philosophy, spirituality, and the human experience. This article delves into the life and teachings of Alan Watts, highlighting some of his insightful quotes that can inspire and enhance our lives. Furthermore, we will explore any connections between Watts and Timothy Leary, as well as the intersections between Watts&#8217; beliefs and contemporary occultism, particularly Thelema. I. The Life and Journey of Alan Watts: A. Early Years and Encounter with Eastern Philosophy: Born in England in 1915, Watts developed an early interest in &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -799,7 +714,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">115</post-id>	</item>
+			</item>
 		<item>
 		<title>Light Sound Machines for Brainwave Entrainment</title>
 		<link>/light-sound-machines-for-brainwave-entrainment/</link>
@@ -810,7 +725,7 @@
 		<category><![CDATA[Self Help]]></category>
 		<category><![CDATA[Technoshamanism]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=105</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=105</guid>
 
 					<description><![CDATA[Light and sound machines, such as the Proceon, Breathworks Explorer, and Laxman, are innovative devices that combine visual stimulation and auditory tones to induce specific mental states and promote relaxation, meditation, and overall well-being. In this essay, we will explore the origins, applications, evidence of their value, and any medical evidence associated with these devices. Origins and Development: The concept of using light and sound as therapeutic tools traces back to ancient practices such as light therapy and sound healing. However, the modern light and sound machines we are familiar with today have their roots in the &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -887,7 +802,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">105</post-id>	</item>
+			</item>
 		<item>
 		<title>Brainwave Entrainment with Hemispheric Synchronization</title>
 		<link>/brainwave-entrainment-with-hemispheric-synchronization/</link>
@@ -897,7 +812,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Self Help]]></category>
 		<category><![CDATA[Technoshamanism]]></category>
-		<guid isPermaLink="false">/?p=103</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=103</guid>
 
 					<description><![CDATA[Hemispheric synchronization, binaural beats, and Hemi-Sync are concepts related to brainwave entrainment techniques that aim to synchronize the activity of the brain&#8217;s hemispheres and induce desired mental states. Let&#8217;s explore each of these concepts in detail: 1. Hemispheric Synchronization: Hemispheric synchronization refers to the process of aligning the brainwave activity of the two hemispheres of the brain. The brain consists of two hemispheres, the left and the right, which are responsible for different functions. Achieving synchronization between these hemispheres can promote a state of balance, coherence, and enhanced mental performance. 2. Binaural Beats: Binaural beats are a &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -950,7 +865,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">103</post-id>	</item>
+			</item>
 		<item>
 		<title>The Mechanics of NLP</title>
 		<link>/the-mechanics-of-nlp/</link>
@@ -959,7 +874,7 @@
 		<pubDate>Tue, 04 Jul 2023 14:54:56 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Self Help]]></category>
-		<guid isPermaLink="false">/?p=64</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=64</guid>
 
 					<description><![CDATA[NLP operates on the premise that our subjective experiences are influenced by the way we process information. It focuses on studying and modeling successful individuals to uncover the strategies, beliefs, and thought patterns that contribute to their achievements. By analyzing these patterns, NLP practitioners aim to help individuals adopt more effective ways of thinking and behaving. NLP Techniques: NLP encompasses a wide range of techniques designed to facilitate personal transformation. Some commonly used techniques include: 1. Anchoring: This technique involves associating a specific stimulus, such as a touch or a word, with a desired emotional state. By &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1044,6 +959,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">64</post-id>	</item>
+			</item>
 	</channel>
 </rss>

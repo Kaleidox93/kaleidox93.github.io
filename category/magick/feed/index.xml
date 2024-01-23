@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>Exploring Symbolic and Quantum Parallels</title>
 		<link>/technoshamanism/</link>
 		
@@ -44,7 +41,7 @@
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
 		<category><![CDATA[technoshamanism]]></category>
-		<guid isPermaLink="false">/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
 
 					<description><![CDATA[Similarities in Symbolism The unicursal hexagram of Thelema and the Eastern Yin Yang symbol offer insightful philosophical parallels with the intriguing principles of quantum physics, particularly resonating with Niels Bohr’s concept of complementarity. This union gives birth to technoshamanism. The Yin Yang and Quantum Theory: In the Yin Yang’s flowing, interconnected nature, we see a reflection of the unicursal hexagram’s depiction of inseparable, opposing forces. This symbolic resonance is mirrored in the realm of quantum theory, where subatomic particles exist in a probabilistic haze, oscillating between contradictory states such as wave and particle, influenced by observation. This &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -145,7 +142,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">2058</post-id>	</item>
+			</item>
 		<item>
 		<title>The Role of the Ars Goetia within Thelema</title>
 		<link>/ars-goetia/</link>
@@ -156,7 +153,7 @@
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/the-role-of-the-ars-goetia-within-thelema/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/the-role-of-the-ars-goetia-within-thelema/</guid>
 
 					<description><![CDATA[The Ars Goetia, also known as The Lesser Key of Solomon, is a 17th-century grimoire, or book of magick that describes the 72 demons of Hell, which are known as the Goetia. It is believed that the Goetia can be controlled, or at least bargained with, by practitioners of ceremonial magick. The book is divided into two parts: the first part lists the demons, their names, ranks, and sigils; the second part provides instructions on how to summon and control the demons. The Ars Goetia describes Hell as having a complex, hierarchical political system. Each demon has &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -225,7 +222,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1028</post-id>	</item>
+			</item>
 		<item>
 		<title>Thelema: Eastern and Western Individualism</title>
 		<link>/thelema-eastern-and-western-individualism/</link>
@@ -235,7 +232,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Thelema]]></category>
-		<guid isPermaLink="false">/thelema-eastern-and-western-individualism/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/thelema-eastern-and-western-individualism/</guid>
 
 					<description><![CDATA[Thelema Thelema, as a philosophical and religious system developed by Aleister Crowley in the early 20th century. It presents an interesting intersection between Eastern philosophy and the Western enforcement of morality and convention. Thelema draws upon various spiritual traditions, including elements of Western occultism. It also involves mysticism, and ancient Egyptian mythology, while also incorporating Eastern philosophical concepts. The idea of True Will and the pursuit of self-realization are central to the practice. True Will One of the central tenets of Thelema is the concept of True Will. This can be understood as an individual&#8217;s unique and &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -288,7 +285,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">883</post-id>	</item>
+			</item>
 		<item>
 		<title>Eastern Philosophies and Western Religions: Exploring Contrasts and Lessons for Humanity</title>
 		<link>/eastern-philosophies-and-western-religions/</link>
@@ -299,7 +296,7 @@
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Philosophy]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/eastern-philosophies-and-western-religions-exploring-contrasts-and-lessons-for-humanity/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/eastern-philosophies-and-western-religions-exploring-contrasts-and-lessons-for-humanity/</guid>
 
 					<description><![CDATA[Throughout history, humanity has sought answers to profound questions about existence, purpose, and the nature of reality. This quest has led to the development of diverse belief systems and philosophical traditions across the globe. In this post, we will compare the history of Eastern philosophies and Western religions, their evolutionary development, and the establishment of schools and temples, with the Western approach to religion, characterized by politically motivated churches, witch covens, and the Inquisition. By examining these differences, we can glean valuable insights and lessons for humanity&#8217;s collective growth and understanding. Eastern Philosophies: Evolutionary Development and Spiritual &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -376,7 +373,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">881</post-id>	</item>
+			</item>
 		<item>
 		<title>The Dynamic Duo: John Dee, Edward Kelly, and Their Profound Influence on Occultism</title>
 		<link>/the-dynamic-duo-john-dee-edward-kelly-and-their-profound-influence-on-occultism/</link>
@@ -388,7 +385,7 @@
 		<category><![CDATA[Enochian Magick]]></category>
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=112</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=112</guid>
 
 					<description><![CDATA[The realm of occultism has always enticed and intrigued seekers of hidden knowledge throughout history. Within this realm, the partnership between John Dee and Edward Kelly stands as a remarkable chapter. Their unique collaboration, the church&#8217;s view on their work, their influence on Aleister Crowley, and their impact on chaos magick and modern occultism overall deserve closer examination. 1. The Profound Partnership: In the late 16th century, John Dee, an esteemed English mathematician, philosopher, and astrologer, met Edward Kelly, an alchemist and medium from Bohemia (now the Czech Republic). Their partnership began in 1582 when Kelly claimed &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -441,7 +438,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">112</post-id>	</item>
+			</item>
 		<item>
 		<title>Unveiling the Mysteries of Enochian Magic: History, Application, and Lasting Influence</title>
 		<link>/enochian-magick/</link>
@@ -451,7 +448,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Enochian Magick]]></category>
 		<category><![CDATA[Magick]]></category>
-		<guid isPermaLink="false">/?p=78</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=78</guid>
 
 					<description><![CDATA[Enochian Magick, a complex system of occult practice, has captivated the minds of magicians, scholars, and occult enthusiasts for centuries. Rooted in the communication with angels and exploration of higher realms, Enochian Magick is a unique aspect of Western esotericism. In this essay, we will explore the history, application, practice, and philosophy of Enochian Magic. We will also touch on it&#8217;s profound influence on future occult schools of thought. History of Enochian Magick Enochian Magick traces its origins to the late 16th century. Attributed to the English occultists Dr. John Dee, and his scryer Edward Kelley. Dee, &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -572,13 +569,13 @@
 
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-heterodoxology wp-block-embed-heterodoxology"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="C4i5sbxnKI"><a href="https://heterodoxology.com/2010/05/29/an-etiology-of-angelic-vision-article-on-john-dee-and-edward-kelly-in-aries/">An etiology of angelic vision: Article on John Dee and Edward Kelly in&nbsp;Aries</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;An etiology of angelic vision: Article on John Dee and Edward Kelly in&nbsp;Aries&#8221; &#8212; Heterodoxology" src="https://heterodoxology.com/2010/05/29/an-etiology-of-angelic-vision-article-on-john-dee-and-edward-kelly-in-aries/embed/#?secret=szcYNCSBUm#?secret=C4i5sbxnKI" data-secret="C4i5sbxnKI" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<blockquote class="wp-embedded-content" data-secret="6nAeOfSLbF"><a href="https://heterodoxology.com/2010/05/29/an-etiology-of-angelic-vision-article-on-john-dee-and-edward-kelly-in-aries/">An etiology of angelic vision: Article on John Dee and Edward Kelly in&nbsp;Aries</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;An etiology of angelic vision: Article on John Dee and Edward Kelly in&nbsp;Aries&#8221; &#8212; Heterodoxology" src="https://heterodoxology.com/2010/05/29/an-etiology-of-angelic-vision-article-on-john-dee-and-edward-kelly-in-aries/embed/#?secret=vKFoinf1nq#?secret=6nAeOfSLbF" data-secret="6nAeOfSLbF" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </div></figure>
 ]]></content:encoded>
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">78</post-id>	</item>
+			</item>
 		<item>
 		<title>The Power of Parody Religions: Finding Kinship and Healing Through Satire</title>
 		<link>/parody-religions/</link>
@@ -590,7 +587,7 @@
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Self Help]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=68</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=68</guid>
 
 					<description><![CDATA[Parody: The Healing Voice of No Reason Parody religions challenge conventional norms, and offer unique perspectives on spirituality. In a world dominated by mainstream religions, this is necessary.. They are satirical religions that seem unconventional or even nonsensical. However, they serve the profound purpose of giving shelter to those needing it. They offer solace, community, and a sense of belonging to those who find themselves at odds with traditional religious institutions. In this post, we will explore how these groups can be socially healthy, offering a haven for those who need it. . The Church of the &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -825,94 +822,12 @@
 <p>The Suggestions of Discordianism, like the philosophy behind many parody religions, must be taken with humor and irony. They serve as a reminder to challenge rigid thinking, embrace chaos, and find joy in the absurdities of life. Through these playful suggestions, we can create a framework that celebrates individuality, critical thinking, and the liberation of the mind. These core principles embrace absurdity, skepticism, and the challenging of established beliefs. They do so by using humor and satire as tools for personal liberation and subversion of societal norms. And the Goddess knows, we need more subversion of the norm.</p>
 
 
-		<div id="serious-slider-44-rnd8953" class="cryout-serious-slider seriousslider serious-slider-44-rnd8953 cryout-serious-slider-44 seriousslider-overlay1 seriousslider-theme seriousslider-shadow-none seriousslider-responsive-maintain seriousslider-hidetitles-0 seriousslider-parallax seriousslider-sizing1 seriousslider-aligncenter seriousslider-caption-animation-slide seriousslider-textstyle-textshadow" data-ride="seriousslider">
-			<div class="seriousslider-inner" role="listbox">
-
-			
-			<div class="item slide-1 active" role="option">
-								<a  href="https://www.subgenius.com/" target="_blank">
-					<img fetchpriority="high" decoding="async" class="item-image" src="/wp-content/uploads/2024/01/stsmall507x507-pad600x600f8f8f8-1.jpg" alt="Bob Dobbs" width="1024" height="768">
-				</a>
-												<div class="seriousslider-caption">
-					<div class="seriousslider-caption-inside">
-						<div class="seriousslider-caption-title"><span>Bob Dobbs</span></div>												<div class="seriousslider-caption-buttons">
-																								<a class="seriousslider-button" href="https://www.subgenius.com/" >Click Me</a>
-																																				</div>
-					</div><!--seriousslider-caption-inside-->
-				</div><!--seriousslider-caption-->
-								<div class="seriousslider-hloader"></div>
-				<figure class="seriousslider-cloader">
-					<svg width="200" height="200">
-						<circle cx="95" cy="95" r="20" transform="rotate(-90, 95, 95)"/>
-					</svg>
-			  </figure>
-			</div>
-
-			
-			<div class="item slide-2 " role="option">
-								<a  href="https://www.cs.cmu.edu/~tilt/principia/" target="_blank">
-					<img decoding="async" class="item-image" src="/wp-content/uploads/2024/01/ray-chao-2.jpg" alt="Discordianism" width="1024" height="768">
-				</a>
-												<div class="seriousslider-caption">
-					<div class="seriousslider-caption-inside">
-						<div class="seriousslider-caption-title"><span>Discordianism</span></div>												<div class="seriousslider-caption-buttons">
-																								<a class="seriousslider-button" href="https://www.cs.cmu.edu/~tilt/principia/" target="_blank">Click Me!</a>
-																																				</div>
-					</div><!--seriousslider-caption-inside-->
-				</div><!--seriousslider-caption-->
-								<div class="seriousslider-hloader"></div>
-				<figure class="seriousslider-cloader">
-					<svg width="200" height="200">
-						<circle cx="95" cy="95" r="20" transform="rotate(-90, 95, 95)"/>
-					</svg>
-			  </figure>
-			</div>
-
-			
-			<div class="item slide-3 " role="option">
-								<a  href="https://www.spaghettimonster.org/" target="_blank">
-					<img decoding="async" class="item-image" src="/wp-content/uploads/2024/01/pasta-2.jpg" alt="Flying Spaghetti Monster" width="1024" height="768">
-				</a>
-												<div class="seriousslider-caption">
-					<div class="seriousslider-caption-inside">
-						<div class="seriousslider-caption-title"><span>Flying Spaghetti Monster</span></div>												<div class="seriousslider-caption-buttons">
-																								<a class="seriousslider-button" href="https://www.spaghettimonster.org/" target="_blank">Click Me!</a>
-																																				</div>
-					</div><!--seriousslider-caption-inside-->
-				</div><!--seriousslider-caption-->
-								<div class="seriousslider-hloader"></div>
-				<figure class="seriousslider-cloader">
-					<svg width="200" height="200">
-						<circle cx="95" cy="95" r="20" transform="rotate(-90, 95, 95)"/>
-					</svg>
-			  </figure>
-			</div>
-
-						</div>
-
-			<div class="seriousslider-indicators">
-				<ol class="seriousslider-indicators-inside">
-										<li data-target="#serious-slider-44-rnd8953" data-slide-to="0" class="active"></li>
-										<li data-target="#serious-slider-44-rnd8953" data-slide-to="1" ></li>
-										<li data-target="#serious-slider-44-rnd8953" data-slide-to="2" ></li>
-									</ol>
-			</div>
-
-			<button class="left seriousslider-control" data-target="#serious-slider-44-rnd8953" role="button" data-slide="prev">
-			  <span class="sicon-prev control-arrow" aria-hidden="true"></span>
-			  <span class="sr-only">Previous Slide</span>
-			</button>
-			<button class="right seriousslider-control" data-target="#serious-slider-44-rnd8953" role="button" data-slide="next">
-			  <span class="sicon-next control-arrow" aria-hidden="true"></span>
-			  <span class="sr-only">Next Slide</span>
-			</button>
-		</div>
-		
+<p>[serious-slider id=44]</p>
 ]]></content:encoded>
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">68</post-id>	</item>
+			</item>
 		<item>
 		<title>The Divine Felines: Cats in Ancient Egypt, the Black Death, Witchcraft, and Aleister Crowley&#8217;s Fascination</title>
 		<link>/the-divine-felines-cats-in-ancient-egypt-the-black-death-witchcraft-and-aleister-crowleys-fascination/</link>
@@ -923,7 +838,7 @@
 		<category><![CDATA[Humor]]></category>
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Pets]]></category>
-		<guid isPermaLink="false">/?p=132</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=132</guid>
 
 					<description><![CDATA[Cats have held a special place in human history, often associated with mysticism, magic, and divine powers. From their revered status in ancient Egypt to their role during the Black Death, as well as their connection to witchcraft and occultism, the captivating allure of these enigmatic creatures has transcended time. Furthermore, the opinions of influential figures such as Aleister Crowley have shed light on their significance and symbolism. 1. Cats: The Divine Beings of Ancient Egypt: In ancient Egypt, cats were regarded as sacred creatures and were revered as manifestations of various deities, notably Bastet, the goddess &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -972,7 +887,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">132</post-id>	</item>
+			</item>
 		<item>
 		<title>Is Magick &#8220;Real&#8221;?</title>
 		<link>/is-magick-real-within-the-construct-of-thelema/</link>
@@ -982,7 +897,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=138</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=138</guid>
 
 					<description><![CDATA[The concept of magic, or magick, is subjective and can be interpreted in various ways depending on one&#8217;s beliefs, cultural background, and personal experiences. It is a topic that has been debated and explored throughout human history. In the context of occult and esoteric traditions, magick is often understood as the practice of using ritual, intention, and focused energy to bring about desired outcomes or to connect with spiritual forces. This practice can involve various techniques such as visualization, meditation, energy manipulation, and working with symbols or correspondences. While some individuals and spiritual traditions firmly believe in &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1027,7 +942,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">138</post-id>	</item>
+			</item>
 		<item>
 		<title> Aleister Crowley&#8217;s Insights Into Guardian Angels in Thelema: Unveiling the Sacred Path</title>
 		<link>/aleister-crowleys-insights-into-guardian-angels-in-thelema-unveiling-the-sacred-path/</link>
@@ -1038,7 +953,7 @@
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=134</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=134</guid>
 
 					<description><![CDATA[Aleister Crowley, the influential occultist and founder of Thelema, approached the concept of guardian angels with his distinctive perspective. In Thelema, a spiritual and philosophical system, the understanding of guardian angels differs from traditional notions. This blog post will delve into Crowley&#8217;s thoughts on guardian angels within the context of Thelema and explore the practices and principles associated with them. 1. Guardian Angels in Thelema: In Thelema, guardian angels are referred to as Holy Guardian Angels (HGA). They play a significant role in the spiritual journey, serving as personal guides and mentors providing guidance, insight, and protection. &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1091,6 +1006,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">134</post-id>	</item>
+			</item>
 	</channel>
 </rss>

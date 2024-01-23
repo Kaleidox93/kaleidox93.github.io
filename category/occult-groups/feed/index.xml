@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>Notes on Masonry and Comparison to Other Orders</title>
 		<link>/superficial-notes-on-masonry-and-a-very-brief-comparison-to-other-occult-orders/</link>
 		
@@ -39,7 +36,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Humor]]></category>
 		<category><![CDATA[Occult Groups]]></category>
-		<guid isPermaLink="false">/?p=140</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=140</guid>
 
 					<description><![CDATA[1. Origins and History: &#8211; Rosicrucianism: Rosicrucianism emerged in the early 17th century with the publication of the Rosicrucian manifestos. It gained popularity in Europe during the Renaissance and Enlightenment periods. &#8211; Freemasonry: Freemasonry has ancient roots and evolved from medieval stonemason guilds. The modern form of Freemasonry emerged in the 17th and 18th centuries, with lodges established throughout Europe and later in other parts of the world. 2. Membership and Organization: &#8211; Rosicrucianism: Rosicrucians often form smaller, esoteric and philosophical study groups or mystical orders. Membership is typically limited to individuals who have a sincere interest &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -234,7 +231,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">140</post-id>	</item>
+			</item>
 		<item>
 		<title>The Evolution of the Temple of Set: Unveiling Beliefs and Contrasting Perspectives</title>
 		<link>/the-evolution-of-the-temple-of-set-unveiling-beliefs-and-contrasting-perspectives/</link>
@@ -243,7 +240,7 @@
 		<pubDate>Tue, 04 Jul 2023 19:53:37 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Occult Groups]]></category>
-		<guid isPermaLink="false">/?p=62</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=62</guid>
 
 					<description><![CDATA[In the realm of modern occultism, the Temple of Set stands as a distinct and intriguing organization. Founded in 1975 by Michael Aquino, a former member of the Church of Satan, the Temple of Set represents a departure from Anton LaVey&#8217;s Church of Satan in terms of philosophy and practices. This blog post aims to explore the evolution of the Temple of Set, its core beliefs, and the contrasting perspectives between Aquino and LaVey. 1. The Origins of the Temple of Set:The Temple of Set emerged as a splinter group from the Church of Satan, primarily due &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -272,7 +269,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">62</post-id>	</item>
+			</item>
 		<item>
 		<title>What is Rosicrucianism?</title>
 		<link>/what-is-rosicrucianism/</link>
@@ -281,7 +278,7 @@
 		<pubDate>Tue, 04 Jul 2023 19:48:07 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Occult Groups]]></category>
-		<guid isPermaLink="false">/?p=56</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=56</guid>
 
 					<description><![CDATA[Rosicrucianism is a mystical and philosophical movement that emerged in the early 17th century. It is based on a series of manifestos known as the &#8220;Rosicrucian manifestos&#8221; that claimed to reveal secret knowledge and teachings from an ancient brotherhood of initiates. While Rosicrucianism encompasses various interpretations and branches, there are common beliefs and principles associated with the tradition. Here is an overview of the belief system and how it compares to other esoteric schools of thought: 1. Universal Knowledge and Wisdom: Rosicrucians believe in the existence of a universal wisdom, which encompasses spiritual, philosophical, and scientific truths. &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -454,7 +451,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">56</post-id>	</item>
+			</item>
 		<item>
 		<title>Freemasonry: The Hidden Growth and the Preservation of Esoteric Knowledge</title>
 		<link>/freemasonry-the-hidden-growth-and-the-preservation-of-esoteric-knowledge-2/</link>
@@ -463,7 +460,7 @@
 		<pubDate>Tue, 04 Jul 2023 16:00:31 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Occult Groups]]></category>
-		<guid isPermaLink="false">/?p=130</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=130</guid>
 
 					<description><![CDATA[As we continue our exploration into the vast realm of Freemasonry, we now turn our attention to its growth behind the scenes, particularly during the early colonial period in America. We will also delve into the fascinating role Freemasonry played in preserving arcane and esoteric knowledge, which could have otherwise been lost over time. While acknowledging that modern society may no longer depend on these ancient practices, we must recognize and appreciate the significant historical impact Freemasonry holds. 1. Freemasonry&#8217;s Growth in Early Colonial America: Freemasonry found fertile ground for expansion during the colonial period of American &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -504,7 +501,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">130</post-id>	</item>
+			</item>
 		<item>
 		<title>Tracing the Origins and Influence of Freemasonry: A Fascinating Journey into History</title>
 		<link>/tracing-the-origins-and-influence-of-freemasonry-a-fascinating-journey-into-history/</link>
@@ -513,7 +510,7 @@
 		<pubDate>Tue, 04 Jul 2023 15:58:29 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Occult Groups]]></category>
-		<guid isPermaLink="false">/?p=126</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=126</guid>
 
 					<description><![CDATA[Freemasonry, with its rich symbolism, rituals, and mysterious origins, has captured the attention and imagination of many throughout history. In this exhaustive exploration, we will delve into the history of Freemasonry, its alleged connection with the construction of Solomon&#8217;s Temple, its links to occultism, and the intriguing possibility of it serving as a historical society preserving ancient religious knowledge. The origin of Freemasonry, its alleged association with Solomon&#8217;s Temple, and its indirect or direct influence on the birth of occultism have fueled fascinating conjectures throughout history. While various hypotheses propose ancient connections and hidden knowledge, it is &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -548,7 +545,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">126</post-id>	</item>
+			</item>
 		<item>
 		<title>Aleister Crowley and the Influence of Occult Organizations on Thelema</title>
 		<link>/aleister-crowley-and-the-influence-of-occult-organizations-on-thelema/</link>
@@ -560,7 +557,7 @@
 		<category><![CDATA[Occult Groups]]></category>
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=122</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=122</guid>
 
 					<description><![CDATA[Aleister Crowley, a prominent figure in the occult world, was associated with several influential occult organizations during his lifetime. These associations played a significant role in shaping his spiritual and philosophical system known as Thelema. In this blog post, we will explore the similarities between Thelema and Freemasonry, the Hermetic Order of the Golden Dawn, as well as the Ordo Templi Orientis (O.T.O.) and the A∴A∴, shedding light on how Crowley drew inspiration from each of these organizations. Similarly, the A∴A∴, building on the spiritual path of the Golden Dawn, aimed to guide practitioners toward spiritual enlightenment &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -591,7 +588,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">122</post-id>	</item>
+			</item>
 		<item>
 		<title>A Comparative Analysis of Scientology and Thelema: Uncovering Similarities and Discerning Differences</title>
 		<link>/a-comparative-analysis-of-scientology-and-thelema-uncovering-similarities-and-discerning-differences-2/</link>
@@ -600,7 +597,7 @@
 		<pubDate>Tue, 04 Jul 2023 14:58:43 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Occult Groups]]></category>
-		<guid isPermaLink="false">/?p=70</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=70</guid>
 
 					<description><![CDATA[In the realm of esoteric and occult beliefs, two prominent systems have captured the attention of seekers and critics alike: Scientology and Thelema. While both systems have their own unique characteristics, examining their similarities and dissimilarities can provide valuable insights into their foundations, practices, and the potential influence they may have had on one another. In this blog post, we will compare and contrast Scientology and Thelema, exploring their core principles, practices, and the controversial assertions surrounding their origins. b. Scientology: Scientology centers around the concept of spiritual liberation and self-improvement. Hubbard introduced the idea of &#8220;thetans&#8221; &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -647,7 +644,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">70</post-id>	</item>
+			</item>
 		<item>
 		<title>The Intriguing History of L. Ron Hubbard, Aleister Crowley, Jack Parsons, and  Marjorie Cameron</title>
 		<link>/lrh_scumbag/</link>
@@ -656,7 +653,7 @@
 		<pubDate>Tue, 04 Jul 2023 14:43:20 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Occult Groups]]></category>
-		<guid isPermaLink="false">/?p=48</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=48</guid>
 
 					<description><![CDATA[The evolution of Scientology, a controversial religious movement developed by L. Ron Hubbard, is not without its captivating historical connections. This blog post dives deep into the intriguing relationship between Hubbard, Aleister Crowley, Jack Parsons, and Crowley&#8217;s wife. By exploring their interactions and examining the influence they had on one another, we can gain valuable insights into the development of Hubbard and his pioneering religious movement, Scientology. 1. L. Ron Hubbard and Aleister Crowley:a. Early Connections: While there are claims that L. Ron Hubbard and Aleister Crowley met, no concrete evidence suggests that they had a close &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -701,6 +698,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">48</post-id>	</item>
+			</item>
 	</channel>
 </rss>

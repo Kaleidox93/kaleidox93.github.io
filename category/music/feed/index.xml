@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>The Musical Journey of Coil</title>
 		<link>/the-musical-journey-of-coil/</link>
 		
@@ -39,7 +36,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[music]]></category>
-		<guid isPermaLink="false">/the-musical-journey-of-coil/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/the-musical-journey-of-coil/</guid>
 
 					<description><![CDATA[In the vast and enigmatic realm of experimental music, few bands have managed to captivate and bewilder audiences quite like Coil. Known for their esoteric soundscapes, provocative lyrics, and unapologetic exploration of occult themes, Coil&#8217;s musical journey transcended the boundaries of conventional music, paving the way for a new wave of sonic exploration. This blog post delves deep into the mystical world of Coil, their profound fascination with the occult, and their enduring influence on other bands. Coil, formed in 1982 by the enigmatic duo of John Balance and Peter Christopherson, embraced the occult as a central &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -96,7 +93,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">929</post-id>	</item>
+			</item>
 		<item>
 		<title>Exploring the Enigmatic Depths: A Deep Dive into Dark Ambient Music</title>
 		<link>/dark-ambient/</link>
@@ -105,7 +102,7 @@
 		<pubDate>Fri, 07 Jul 2023 23:00:59 +0000</pubDate>
 				<category><![CDATA[Music]]></category>
 		<category><![CDATA[music]]></category>
-		<guid isPermaLink="false">/exploring-the-enigmatic-depths-a-deep-dive-into-dark-ambient-music/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/exploring-the-enigmatic-depths-a-deep-dive-into-dark-ambient-music/</guid>
 
 					<description><![CDATA[Introduction to Dark Ambient Music Within the expansive realm of ambient music, a subgenre exists that delves into the shadows. It conjures a sense of foreboding and mystery. This subgenre, known as dark ambient, harnesses atmospheric soundscapes to create an eerie and otherworldly sonic experience. In this post, we embark on an exploration of dark ambient. We will focus on the works of Coil and Lustmord, two major contributors to the genre. We will also examine examples of Description of Audio Dark ambient is a genre that immerses the listener in haunting and atmospheric soundscapes. It evokes &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -278,7 +275,7 @@
 
 
 <figure class="wp-block-embed aligncenter is-type-wp-embed is-provider-live-coil-archive wp-block-embed-live-coil-archive"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="cnnN4g6kBB"><a href="https://live-coil-archive.com/">The Live COIL Archive</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;The Live COIL Archive&#8221; &#8212; Live COIL Archive" src="https://live-coil-archive.com/embed/#?secret=FN9IReGWBv#?secret=cnnN4g6kBB" data-secret="cnnN4g6kBB" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<blockquote class="wp-embedded-content" data-secret="b2Q0jw8l3L"><a href="https://live-coil-archive.com/">The Live COIL Archive</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;The Live COIL Archive&#8221; &#8212; Live COIL Archive" src="https://live-coil-archive.com/embed/#?secret=4SZ4bnEejR#?secret=b2Q0jw8l3L" data-secret="b2Q0jw8l3L" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </div></figure>
 
 
@@ -288,7 +285,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">927</post-id>	</item>
+			</item>
 		<item>
 		<title>The Symbiosis of Sensations: Frisson and Dark Ambient Music</title>
 		<link>/the-symbiosis-of-sensations-exploring-asmr-frissons-and-dark-ambient-music/</link>
@@ -297,7 +294,7 @@
 		<pubDate>Fri, 07 Jul 2023 22:58:27 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Music]]></category>
-		<guid isPermaLink="false">/the-symbiosis-of-sensations-exploring-asmr-frissons-and-dark-ambient-music/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/the-symbiosis-of-sensations-exploring-asmr-frissons-and-dark-ambient-music/</guid>
 
 					<description><![CDATA[Frisson and ASMR In the vast and intricate world of sensory experiences, certain phenomena and artistic expressions intertwine to create unique and profound moments of perception. This blog post delves into the captivating realms of ASMR (Autonomous Sensory Meridian Response), frissons (chills or tingling sensations), dark ambient music, the band Coil, and their intriguing connections to LSD, ketamine, and the occultist Aleister Crowley. Prepare to embark on a journey that intertwines the ethereal, the sensory, and the mystical. Autonomous Sensory Meridian Response ASMR, a phenomenon characterized by pleasurable tingling sensations that typically originate from auditory or visual &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -390,7 +387,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">923</post-id>	</item>
+			</item>
 		<item>
 		<title>Devo: The Contributions of these Legendary Pioneers</title>
 		<link>/devo-legendary-contributions-to-music/</link>
@@ -399,7 +396,7 @@
 		<pubDate>Tue, 04 Jul 2023 19:56:00 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Music]]></category>
-		<guid isPermaLink="false">/?p=66</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=66</guid>
 
 					<description><![CDATA[Pioneering Sound The American new wave band  Devo, formed in the 1970s, has had a significant influence on music, art, and popular culture. Known for their unique sound, satirical lyrics, and distinctive visual style, Devo emerged as one of the pioneers of the new wave movement and played a vital role in shaping the alternative music scene. We Are Devo Devo&#8217;s music blended punk rock, electronic elements, and unconventional song structures, creating a sound that was both catchy and experimental. Their breakthrough came with the release of their debut album, &#8220;Q: Are We Not Men? A: We &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -468,7 +465,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">66</post-id>	</item>
+			</item>
 		<item>
 		<title>David Tibet: Exploring the Enigmatic Music and Spiritual Influences</title>
 		<link>/david-tibet-exploring-the-enigmatic-music-and-spiritual-influences/</link>
@@ -478,7 +475,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[music]]></category>
-		<guid isPermaLink="false">/?p=101</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=101</guid>
 
 					<description><![CDATA[David Tibet, a visionary musician and artist, has carved a unique path in the realm of experimental music with his long-running project, Current 93. This article delves into the music, life, and history of David Tibet, focusing on his influential project and the profound impact of his spiritual beliefs on his music. Furthermore, we will explore the ways in which his music has influenced other artists and musicians, including potential connections to Marilyn Manson, Tool, and other popular figures. I. The Musical Journey of David Tibet: A. Formation of Current 93: Current 93 was formed in the &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -531,7 +528,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">101</post-id>	</item>
+			</item>
 		<item>
 		<title>The History of Ghost and Their Occult Metal Legacy</title>
 		<link>/unveiling-the-mysteries-the-history-of-ghost-and-their-occult-metal-legacy/</link>
@@ -540,7 +537,7 @@
 		<pubDate>Tue, 04 Jul 2023 15:12:22 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Music]]></category>
-		<guid isPermaLink="false">/?p=97</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=97</guid>
 
 					<description><![CDATA[Ghost, the enigmatic occult metal band, has captivated audiences worldwide with their dark and melodic sound, theatrical performances, and cryptic imagery. This article delves into the history of Ghost, exploring the mythology they have crafted around their &#8220;Church,&#8221; their music, and the connections between Tobias Forge (the mastermind behind Ghost) and Freemasonry. Additionally, we will examine any potential influences of Thelema within their music and aesthetic. I. The Emergence of Ghost and their Mythology:A. Birth of the Nameless Ghouls: Ghost emerged in 2006, shrouded in mystery, as they concealed their identities beneath masks and adopted the moniker &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -585,6 +582,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">97</post-id>	</item>
+			</item>
 	</channel>
 </rss>

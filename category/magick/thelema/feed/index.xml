@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>Exploring Symbolic and Quantum Parallels</title>
 		<link>/technoshamanism/</link>
 		
@@ -44,7 +41,7 @@
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
 		<category><![CDATA[technoshamanism]]></category>
-		<guid isPermaLink="false">/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
 
 					<description><![CDATA[Similarities in Symbolism The unicursal hexagram of Thelema and the Eastern Yin Yang symbol offer insightful philosophical parallels with the intriguing principles of quantum physics, particularly resonating with Niels Bohr’s concept of complementarity. This union gives birth to technoshamanism. The Yin Yang and Quantum Theory: In the Yin Yang’s flowing, interconnected nature, we see a reflection of the unicursal hexagram’s depiction of inseparable, opposing forces. This symbolic resonance is mirrored in the realm of quantum theory, where subatomic particles exist in a probabilistic haze, oscillating between contradictory states such as wave and particle, influenced by observation. This &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -145,7 +142,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">2058</post-id>	</item>
+			</item>
 		<item>
 		<title>The Role of the Ars Goetia within Thelema</title>
 		<link>/ars-goetia/</link>
@@ -156,7 +153,7 @@
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/the-role-of-the-ars-goetia-within-thelema/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/the-role-of-the-ars-goetia-within-thelema/</guid>
 
 					<description><![CDATA[The Ars Goetia, also known as The Lesser Key of Solomon, is a 17th-century grimoire, or book of magick that describes the 72 demons of Hell, which are known as the Goetia. It is believed that the Goetia can be controlled, or at least bargained with, by practitioners of ceremonial magick. The book is divided into two parts: the first part lists the demons, their names, ranks, and sigils; the second part provides instructions on how to summon and control the demons. The Ars Goetia describes Hell as having a complex, hierarchical political system. Each demon has &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -225,7 +222,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1028</post-id>	</item>
+			</item>
 		<item>
 		<title>Thelema: Eastern and Western Individualism</title>
 		<link>/thelema-eastern-and-western-individualism/</link>
@@ -235,7 +232,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Thelema]]></category>
-		<guid isPermaLink="false">/thelema-eastern-and-western-individualism/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/thelema-eastern-and-western-individualism/</guid>
 
 					<description><![CDATA[Thelema Thelema, as a philosophical and religious system developed by Aleister Crowley in the early 20th century. It presents an interesting intersection between Eastern philosophy and the Western enforcement of morality and convention. Thelema draws upon various spiritual traditions, including elements of Western occultism. It also involves mysticism, and ancient Egyptian mythology, while also incorporating Eastern philosophical concepts. The idea of True Will and the pursuit of self-realization are central to the practice. True Will One of the central tenets of Thelema is the concept of True Will. This can be understood as an individual&#8217;s unique and &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -288,7 +285,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">883</post-id>	</item>
+			</item>
 		<item>
 		<title> Aleister Crowley&#8217;s Insights Into Guardian Angels in Thelema: Unveiling the Sacred Path</title>
 		<link>/aleister-crowleys-insights-into-guardian-angels-in-thelema-unveiling-the-sacred-path/</link>
@@ -299,7 +296,7 @@
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=134</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=134</guid>
 
 					<description><![CDATA[Aleister Crowley, the influential occultist and founder of Thelema, approached the concept of guardian angels with his distinctive perspective. In Thelema, a spiritual and philosophical system, the understanding of guardian angels differs from traditional notions. This blog post will delve into Crowley&#8217;s thoughts on guardian angels within the context of Thelema and explore the practices and principles associated with them. 1. Guardian Angels in Thelema: In Thelema, guardian angels are referred to as Holy Guardian Angels (HGA). They play a significant role in the spiritual journey, serving as personal guides and mentors providing guidance, insight, and protection. &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -352,7 +349,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">134</post-id>	</item>
+			</item>
 		<item>
 		<title>Aleister Crowley and the Influence of Occult Organizations on Thelema</title>
 		<link>/aleister-crowley-and-the-influence-of-occult-organizations-on-thelema/</link>
@@ -364,7 +361,7 @@
 		<category><![CDATA[Occult Groups]]></category>
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=122</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=122</guid>
 
 					<description><![CDATA[Aleister Crowley, a prominent figure in the occult world, was associated with several influential occult organizations during his lifetime. These associations played a significant role in shaping his spiritual and philosophical system known as Thelema. In this blog post, we will explore the similarities between Thelema and Freemasonry, the Hermetic Order of the Golden Dawn, as well as the Ordo Templi Orientis (O.T.O.) and the A∴A∴, shedding light on how Crowley drew inspiration from each of these organizations. Similarly, the A∴A∴, building on the spiritual path of the Golden Dawn, aimed to guide practitioners toward spiritual enlightenment &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -395,7 +392,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">122</post-id>	</item>
+			</item>
 		<item>
 		<title>Discussion of Aleister Crowley&#8217;s Past Lives</title>
 		<link>/crowleys-reincarnation/</link>
@@ -404,7 +401,7 @@
 		<pubDate>Tue, 04 Jul 2023 15:03:04 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Thelema]]></category>
-		<guid isPermaLink="false">/?p=80</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=80</guid>
 
 					<description><![CDATA[Aleister Crowley, the enigmatic figure behind the philosophy of Thelema, held a complex and controversial belief regarding his own identity and spiritual lineage. Throughout his life, Crowley claimed to be the reincarnation of various historical and mythical figures, often attributing his connection to them as a source of spiritual authority and inspiration. Let&#8217;s explore Crowley&#8217;s beliefs about his alleged past lives and their significance within his spiritual framework. 1. The Pharaoh Akhenaten One of Crowley&#8217;s most significant claims was that he believed himself to be the reincarnation of the Egyptian pharaoh Akhenaten. Akhenaten was known for his &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -469,7 +466,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">80</post-id>	</item>
+			</item>
 		<item>
 		<title>Star Ruby Ritual: A Pathway to Inner Transformation</title>
 		<link>/the-star-ruby-ritual-a-pathway-to-inner-transformation/</link>
@@ -478,7 +475,7 @@
 		<pubDate>Tue, 04 Jul 2023 09:02:59 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Thelema]]></category>
-		<guid isPermaLink="false">/?p=107</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=107</guid>
 
 					<description><![CDATA[The Ruby Star Ritual, also known as the Star Ruby, is a powerful ceremonial practice within the system of Thelema. Developed by Aleister Crowley, it serves as a purification and banishing ritual, aiming to cleanse the practitioner&#8217;s energetic and mental space while invoking protective forces. In this section, we will provide a thorough description of how to perform the Ruby Star Ritual and delve into its specific goals and intentions. 1. Igniting the Divine Spark: One of the primary goals of the Ruby Star ritual is to awaken and ignite the divine spark within each individual. The &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -675,6 +672,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">107</post-id>	</item>
+			</item>
 	</channel>
 </rss>

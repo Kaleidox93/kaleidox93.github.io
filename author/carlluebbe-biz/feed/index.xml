@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,14 +27,14 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>The Role of N95 Respirators in Public Health: Understanding, Efficacy, and Misinformation</title>
 		<link>/the-role-of-n95-respirators/</link>
 		
 		<dc:creator><![CDATA[Tobit]]></dc:creator>
 		<pubDate>Wed, 17 Jan 2024 16:32:44 +0000</pubDate>
 				<category><![CDATA[All]]></category>
-		<guid isPermaLink="false">/?p=2335</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=2335</guid>
 
 					<description><![CDATA[Personal Introduction As a lifelong Libertarian and the author of this article, I consider mandates such as mask-wearing to be akin to seatbelt laws, or regulations against any behavior that is not immediately life-threatening. However, common sense should prevail in public health, especially during crises like the COVID-19 pandemic. We must educate ourselves in order to make sound decisions with less interference, whether that interference is from governments, large corporations, or politicians exploiting the poorly educated by misrepresenting basic science. In this article, we will address some of the misinformation that has circulated regarding the role of &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -438,7 +435,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">2335</post-id>	</item>
+			</item>
 		<item>
 		<title>Exploring Symbolic and Quantum Parallels</title>
 		<link>/technoshamanism/</link>
@@ -453,7 +450,7 @@
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
 		<category><![CDATA[technoshamanism]]></category>
-		<guid isPermaLink="false">/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
 
 					<description><![CDATA[Similarities in Symbolism The unicursal hexagram of Thelema and the Eastern Yin Yang symbol offer insightful philosophical parallels with the intriguing principles of quantum physics, particularly resonating with Niels Bohr’s concept of complementarity. This union gives birth to technoshamanism. The Yin Yang and Quantum Theory: In the Yin Yang’s flowing, interconnected nature, we see a reflection of the unicursal hexagram’s depiction of inseparable, opposing forces. This symbolic resonance is mirrored in the realm of quantum theory, where subatomic particles exist in a probabilistic haze, oscillating between contradictory states such as wave and particle, influenced by observation. This &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -554,6 +551,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">2058</post-id>	</item>
+			</item>
 	</channel>
 </rss>

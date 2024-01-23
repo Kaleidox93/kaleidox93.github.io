@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>Exploring Symbolic and Quantum Parallels</title>
 		<link>/technoshamanism/</link>
 		
@@ -44,7 +41,7 @@
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
 		<category><![CDATA[technoshamanism]]></category>
-		<guid isPermaLink="false">/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
 
 					<description><![CDATA[Similarities in Symbolism The unicursal hexagram of Thelema and the Eastern Yin Yang symbol offer insightful philosophical parallels with the intriguing principles of quantum physics, particularly resonating with Niels Bohr’s concept of complementarity. This union gives birth to technoshamanism. The Yin Yang and Quantum Theory: In the Yin Yang’s flowing, interconnected nature, we see a reflection of the unicursal hexagram’s depiction of inseparable, opposing forces. This symbolic resonance is mirrored in the realm of quantum theory, where subatomic particles exist in a probabilistic haze, oscillating between contradictory states such as wave and particle, influenced by observation. This &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -145,7 +142,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">2058</post-id>	</item>
+			</item>
 		<item>
 		<title>Microdosing LSD</title>
 		<link>/microdosing-lsd/</link>
@@ -156,7 +153,7 @@
 		<category><![CDATA[Psychedelia]]></category>
 		<category><![CDATA[Self Help]]></category>
 		<category><![CDATA[Technoshamanism]]></category>
-		<guid isPermaLink="false">/?p=95</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=95</guid>
 
 					<description><![CDATA[Microdosing LSD has gained significant attention in recent years as a contemporary practice for personal growth, cognitive enhancement, and exploring altered states of consciousness. This approach involves taking sub-perceptual doses of LSD, typically a fraction of a standard recreational dose, on a regular basis. Microdosers report a range of benefits, including increased creativity, focus, emotional well-being, and heightened sensory perception. To understand the contemporary practice of microdosing LSD, it is important to explore the pioneering work of Albert Hofmann, the resurgence of interest in microdosing, and the contributions of researchers like James Fadiman. Bicycle Day Albert Hofmann, &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -265,7 +262,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">95</post-id>	</item>
+			</item>
 		<item>
 		<title>Light Sound Machines for Brainwave Entrainment</title>
 		<link>/light-sound-machines-for-brainwave-entrainment/</link>
@@ -276,7 +273,7 @@
 		<category><![CDATA[Self Help]]></category>
 		<category><![CDATA[Technoshamanism]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=105</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=105</guid>
 
 					<description><![CDATA[Light and sound machines, such as the Proceon, Breathworks Explorer, and Laxman, are innovative devices that combine visual stimulation and auditory tones to induce specific mental states and promote relaxation, meditation, and overall well-being. In this essay, we will explore the origins, applications, evidence of their value, and any medical evidence associated with these devices. Origins and Development: The concept of using light and sound as therapeutic tools traces back to ancient practices such as light therapy and sound healing. However, the modern light and sound machines we are familiar with today have their roots in the &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -353,7 +350,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">105</post-id>	</item>
+			</item>
 		<item>
 		<title>Brainwave Entrainment with Hemispheric Synchronization</title>
 		<link>/brainwave-entrainment-with-hemispheric-synchronization/</link>
@@ -363,7 +360,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Self Help]]></category>
 		<category><![CDATA[Technoshamanism]]></category>
-		<guid isPermaLink="false">/?p=103</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=103</guid>
 
 					<description><![CDATA[Hemispheric synchronization, binaural beats, and Hemi-Sync are concepts related to brainwave entrainment techniques that aim to synchronize the activity of the brain&#8217;s hemispheres and induce desired mental states. Let&#8217;s explore each of these concepts in detail: 1. Hemispheric Synchronization: Hemispheric synchronization refers to the process of aligning the brainwave activity of the two hemispheres of the brain. The brain consists of two hemispheres, the left and the right, which are responsible for different functions. Achieving synchronization between these hemispheres can promote a state of balance, coherence, and enhanced mental performance. 2. Binaural Beats: Binaural beats are a &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -416,6 +413,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">103</post-id>	</item>
+			</item>
 	</channel>
 </rss>

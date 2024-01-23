@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>Maldoror Meets Joker</title>
 		<link>/maldoror-meets-joker/</link>
 		
@@ -38,7 +35,7 @@
 		<pubDate>Sun, 09 Jul 2023 02:57:51 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Fiction]]></category>
-		<guid isPermaLink="false">/maldoror-meets-joker/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/maldoror-meets-joker/</guid>
 
 					<description><![CDATA[&#8220;It is not right that everyone should read the pages which follow; only a few will be able to savour this bitter fruit with impunity. Consequently, shrinking soul, turn on your heels and go back before penetrating further into such uncharted, perilous wastelands.&#8221; — Maldoror, Part I,&#160; Part 1. In a dimly lit corner of the decrepit bar, shrouded in an atmosphere teeming with sinister secrets, Maldoror sat patiently in a booth, his features hidden beneath the shadowy haze. He had arrived early, as was his meticulous nature, awaiting the arrival of someone he had only heard whispers &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -171,6 +168,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">954</post-id>	</item>
+			</item>
 	</channel>
 </rss>

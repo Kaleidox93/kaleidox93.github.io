@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>The Development of an Exo-Toxic Memetype</title>
 		<link>/the-development-of-an-exo-toxic-memetype/</link>
 		
@@ -38,7 +35,7 @@
 		<pubDate>Tue, 04 Jul 2023 14:52:47 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Deadly Cults]]></category>
-		<guid isPermaLink="false">/?p=60</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=60</guid>
 
 					<description><![CDATA[Rarely spotted in the wild these days, the albino Klansman is most often seen in the traditional garb, consisting of white sheets and a dunce hat. The Ku Klux Klan (KKK) was founded in Pulaski, Tennessee, in 1865 by six Confederate veterans: John C. Lester, John B. Kennedy, James R. Crowe, Frank O. McCord, Richard R. Reed, and Calvin E. Jones. Initially, the Klan was formed as a social club for Confederate veterans, but it quickly transformed into a brainless terrorist organization with a deeply rooted ideology of racial hatred and a deep, rich love for beer, &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -75,7 +72,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">60</post-id>	</item>
+			</item>
 		<item>
 		<title>Title: Understanding the Operating Thetan Levels of Scientology</title>
 		<link>/title-understanding-the-operating-thetan-levels-of-scientology/</link>
@@ -84,7 +81,7 @@
 		<pubDate>Tue, 04 Jul 2023 14:39:18 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Deadly Cults]]></category>
-		<guid isPermaLink="false">/?p=44</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=44</guid>
 
 					<description><![CDATA[Introduction:Scientology, a controversial and secretive religion founded by L. Ron Hubbard in the early 1950s, places significant emphasis on the concept of the &#8220;Operating Thetan&#8221; (OT). Operating Thetan refers to the highest spiritual state a Scientologist can achieve through advanced training and auditing. In this blog post, we aim to provide an in-depth understanding of the Operating Thetan levels in Scientology, exploring their purpose, progression, and associated practices. 1. The Bridge to Total Freedom:The Scientology journey towards becoming an Operating Thetan is often referred to as &#8220;The Bridge to Total Freedom.&#8221; It is a comprehensive and structured &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -133,6 +130,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44</post-id>	</item>
+			</item>
 	</channel>
 </rss>

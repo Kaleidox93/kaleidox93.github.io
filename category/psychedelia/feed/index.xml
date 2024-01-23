@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>Exploring Symbolic and Quantum Parallels</title>
 		<link>/technoshamanism/</link>
 		
@@ -44,7 +41,7 @@
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
 		<category><![CDATA[technoshamanism]]></category>
-		<guid isPermaLink="false">/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
 
 					<description><![CDATA[Similarities in Symbolism The unicursal hexagram of Thelema and the Eastern Yin Yang symbol offer insightful philosophical parallels with the intriguing principles of quantum physics, particularly resonating with Niels Bohr’s concept of complementarity. This union gives birth to technoshamanism. The Yin Yang and Quantum Theory: In the Yin Yang’s flowing, interconnected nature, we see a reflection of the unicursal hexagram’s depiction of inseparable, opposing forces. This symbolic resonance is mirrored in the realm of quantum theory, where subatomic particles exist in a probabilistic haze, oscillating between contradictory states such as wave and particle, influenced by observation. This &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -145,7 +142,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">2058</post-id>	</item>
+			</item>
 		<item>
 		<title>Microdosing LSD</title>
 		<link>/microdosing-lsd/</link>
@@ -156,7 +153,7 @@
 		<category><![CDATA[Psychedelia]]></category>
 		<category><![CDATA[Self Help]]></category>
 		<category><![CDATA[Technoshamanism]]></category>
-		<guid isPermaLink="false">/?p=95</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=95</guid>
 
 					<description><![CDATA[Microdosing LSD has gained significant attention in recent years as a contemporary practice for personal growth, cognitive enhancement, and exploring altered states of consciousness. This approach involves taking sub-perceptual doses of LSD, typically a fraction of a standard recreational dose, on a regular basis. Microdosers report a range of benefits, including increased creativity, focus, emotional well-being, and heightened sensory perception. To understand the contemporary practice of microdosing LSD, it is important to explore the pioneering work of Albert Hofmann, the resurgence of interest in microdosing, and the contributions of researchers like James Fadiman. Bicycle Day Albert Hofmann, &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -265,7 +262,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">95</post-id>	</item>
+			</item>
 		<item>
 		<title>Dr. Timothy Leary&#8217;s 8 Circuit Model of Consciousness</title>
 		<link>/dr-timothy-learys-8-circuit-model-of-consciousness/</link>
@@ -275,7 +272,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Psychedelia]]></category>
 		<category><![CDATA[Self Help]]></category>
-		<guid isPermaLink="false">/?p=93</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=93</guid>
 
 					<description><![CDATA[Timothy Leary&#8217;s 8 circuit model of consciousness is a conceptual framework that outlines different stages or circuits of human consciousness and evolution. It provides a map for understanding the potential development and expansion of human awareness. The model suggests that each circuit represents a distinct level of consciousness and corresponds to specific psychological, neurological, and experiential states. Here is a brief overview of Timothy Leary&#8217;s 8 circuit model: 1. The Bio-Survival Circuit: This is the first and most basic circuit, associated with the survival instincts and the basic drives for food, shelter, and reproduction. It is primarily &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -360,7 +357,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">93</post-id>	</item>
+			</item>
 		<item>
 		<title>Robert Anton Wilson, on Timothy Leary&#8217;s 8 Circuit Model</title>
 		<link>/robert-anton-wilson-on-timothy-learys-8-circuit-model/</link>
@@ -369,7 +366,7 @@
 		<pubDate>Tue, 04 Jul 2023 20:08:51 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Psychedelia]]></category>
-		<guid isPermaLink="false">/?p=90</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=90</guid>
 
 					<description><![CDATA[RAW Robert Anton Wilson, a prolific writer and thinker, had a unique and insightful perspective on Timothy Leary&#8217;s 8 circuit model of consciousness. Wilson, known for his explorations of reality, psychology, and the nature of human perception, engaged with Leary&#8217;s model and expanded upon it in his own writings. Let&#8217;s delve into Wilson&#8217;s take on the 8 circuit model and how he built upon it. RAW and the 8 Circuit Model Wilson viewed the 8 circuit model as a valuable framework for understanding human consciousness and its evolution. However, he approached it with a healthy dose of &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -518,7 +515,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">90</post-id>	</item>
+			</item>
 		<item>
 		<title>Dr. Timothy Leary: A Pioneer of Psychedelic Exploration and Cultural Revolution</title>
 		<link>/dr-timothy-leary-a-pioneer-of-psychedelic-exploration-and-cultural-revolution/</link>
@@ -527,7 +524,7 @@
 		<pubDate>Tue, 04 Jul 2023 20:07:54 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Psychedelia]]></category>
-		<guid isPermaLink="false">/?p=88</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=88</guid>
 
 					<description><![CDATA[Timothy Leary (1920-1996) was a psychologist, philosopher, and countercultural icon who played a pivotal role in popularizing the use of psychedelics and advocating for personal and societal transformation. His radical ideas, charismatic personality, and bold experimentation challenged established norms and sparked a cultural revolution that would leave a lasting impact on the fields of psychology, philosophy, and the exploration of consciousness. Let&#8217;s delve into the fascinating history and beliefs of Timothy Leary. Early Life and Academic Career: Timothy Francis Leary was born on October 22, 1920, in Springfield, Massachusetts. He grew up in a Catholic household and &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -608,7 +605,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">88</post-id>	</item>
+			</item>
 		<item>
 		<title>The Influence of Aleister Crowley on Timothy Leary: Exploring Psychedelic Liberation and Magickal Paradigms</title>
 		<link>/the-influence-of-aleister-crowley-on-timothy-leary-exploring-psychedelic-liberation-and-magickal-paradigms/</link>
@@ -617,7 +614,7 @@
 		<pubDate>Tue, 04 Jul 2023 20:06:58 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Psychedelia]]></category>
-		<guid isPermaLink="false">/?p=86</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=86</guid>
 
 					<description><![CDATA[The fascinating connections between Aleister Crowley, the influential occultist, and Timothy Leary, the renowned advocate of psychedelic exploration, have long intrigued scholars and enthusiasts alike. While direct evidence of personal interaction between the two figures is limited, it is evident that Crowley&#8217;s ideas and philosophies have had a profound influence on Leary&#8217;s worldview and his pioneering work with psychedelics. Let&#8217;s delve into how Crowley may have shaped Leary&#8217;s thinking and contributed to the development of his psychedelic theories. 1. Liberating the Mind and Consciousness: Both Crowley and Leary shared a common goal of liberating the human mind &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -674,6 +671,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">86</post-id>	</item>
+			</item>
 	</channel>
 </rss>

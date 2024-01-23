@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>The Dynamic Duo: John Dee, Edward Kelly, and Their Profound Influence on Occultism</title>
 		<link>/the-dynamic-duo-john-dee-edward-kelly-and-their-profound-influence-on-occultism/</link>
 		
@@ -41,7 +38,7 @@
 		<category><![CDATA[Enochian Magick]]></category>
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=112</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=112</guid>
 
 					<description><![CDATA[The realm of occultism has always enticed and intrigued seekers of hidden knowledge throughout history. Within this realm, the partnership between John Dee and Edward Kelly stands as a remarkable chapter. Their unique collaboration, the church&#8217;s view on their work, their influence on Aleister Crowley, and their impact on chaos magick and modern occultism overall deserve closer examination. 1. The Profound Partnership: In the late 16th century, John Dee, an esteemed English mathematician, philosopher, and astrologer, met Edward Kelly, an alchemist and medium from Bohemia (now the Czech Republic). Their partnership began in 1582 when Kelly claimed &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -94,7 +91,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">112</post-id>	</item>
+			</item>
 		<item>
 		<title>Unveiling the Mysteries of Enochian Magic: History, Application, and Lasting Influence</title>
 		<link>/enochian-magick/</link>
@@ -104,7 +101,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Enochian Magick]]></category>
 		<category><![CDATA[Magick]]></category>
-		<guid isPermaLink="false">/?p=78</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=78</guid>
 
 					<description><![CDATA[Enochian Magick, a complex system of occult practice, has captivated the minds of magicians, scholars, and occult enthusiasts for centuries. Rooted in the communication with angels and exploration of higher realms, Enochian Magick is a unique aspect of Western esotericism. In this essay, we will explore the history, application, practice, and philosophy of Enochian Magic. We will also touch on it&#8217;s profound influence on future occult schools of thought. History of Enochian Magick Enochian Magick traces its origins to the late 16th century. Attributed to the English occultists Dr. John Dee, and his scryer Edward Kelley. Dee, &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -225,12 +222,12 @@
 
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-heterodoxology wp-block-embed-heterodoxology"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="C4i5sbxnKI"><a href="https://heterodoxology.com/2010/05/29/an-etiology-of-angelic-vision-article-on-john-dee-and-edward-kelly-in-aries/">An etiology of angelic vision: Article on John Dee and Edward Kelly in&nbsp;Aries</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;An etiology of angelic vision: Article on John Dee and Edward Kelly in&nbsp;Aries&#8221; &#8212; Heterodoxology" src="https://heterodoxology.com/2010/05/29/an-etiology-of-angelic-vision-article-on-john-dee-and-edward-kelly-in-aries/embed/#?secret=szcYNCSBUm#?secret=C4i5sbxnKI" data-secret="C4i5sbxnKI" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<blockquote class="wp-embedded-content" data-secret="6nAeOfSLbF"><a href="https://heterodoxology.com/2010/05/29/an-etiology-of-angelic-vision-article-on-john-dee-and-edward-kelly-in-aries/">An etiology of angelic vision: Article on John Dee and Edward Kelly in&nbsp;Aries</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;An etiology of angelic vision: Article on John Dee and Edward Kelly in&nbsp;Aries&#8221; &#8212; Heterodoxology" src="https://heterodoxology.com/2010/05/29/an-etiology-of-angelic-vision-article-on-john-dee-and-edward-kelly-in-aries/embed/#?secret=vKFoinf1nq#?secret=6nAeOfSLbF" data-secret="6nAeOfSLbF" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </div></figure>
 ]]></content:encoded>
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">78</post-id>	</item>
+			</item>
 	</channel>
 </rss>

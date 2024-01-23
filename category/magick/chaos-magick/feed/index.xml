@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>The Dynamic Duo: John Dee, Edward Kelly, and Their Profound Influence on Occultism</title>
 		<link>/the-dynamic-duo-john-dee-edward-kelly-and-their-profound-influence-on-occultism/</link>
 		
@@ -41,7 +38,7 @@
 		<category><![CDATA[Enochian Magick]]></category>
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=112</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=112</guid>
 
 					<description><![CDATA[The realm of occultism has always enticed and intrigued seekers of hidden knowledge throughout history. Within this realm, the partnership between John Dee and Edward Kelly stands as a remarkable chapter. Their unique collaboration, the church&#8217;s view on their work, their influence on Aleister Crowley, and their impact on chaos magick and modern occultism overall deserve closer examination. 1. The Profound Partnership: In the late 16th century, John Dee, an esteemed English mathematician, philosopher, and astrologer, met Edward Kelly, an alchemist and medium from Bohemia (now the Czech Republic). Their partnership began in 1582 when Kelly claimed &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -94,7 +91,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">112</post-id>	</item>
+			</item>
 		<item>
 		<title>Chaos Magick: Unleashing the Power of the Unpredictable</title>
 		<link>/chaos-magick-unleashing-the-power-of-the-unpredictable-2/</link>
@@ -104,7 +101,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Chaos Magick]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=76</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=76</guid>
 
 					<description><![CDATA[In the realm of occultism, few movements have caused as much disruption and controversy as Chaos Magick. Emerging in the late 20th century, Chaos Magick introduced a radical departure from traditional occult systems, emphasizing individuality, experimentation, and a pragmatic approach to magic. This blog post will delve into the origins of Chaos Magick, its core principles, and how it differs from other systems of magick. We will also explore the contributions of Discordianism, the Church of the Subgenius, as well as influential intellectuals like Timothy Leary and Robert Anton Wilson, who shook up society with their ideas. &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -201,6 +198,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">76</post-id>	</item>
+			</item>
 	</channel>
 </rss>

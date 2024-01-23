@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>Exploring Symbolic and Quantum Parallels</title>
 		<link>/technoshamanism/</link>
 		
@@ -44,7 +41,7 @@
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
 		<category><![CDATA[technoshamanism]]></category>
-		<guid isPermaLink="false">/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
 
 					<description><![CDATA[Similarities in Symbolism The unicursal hexagram of Thelema and the Eastern Yin Yang symbol offer insightful philosophical parallels with the intriguing principles of quantum physics, particularly resonating with Niels Bohr’s concept of complementarity. This union gives birth to technoshamanism. The Yin Yang and Quantum Theory: In the Yin Yang’s flowing, interconnected nature, we see a reflection of the unicursal hexagram’s depiction of inseparable, opposing forces. This symbolic resonance is mirrored in the realm of quantum theory, where subatomic particles exist in a probabilistic haze, oscillating between contradictory states such as wave and particle, influenced by observation. This &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -145,7 +142,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">2058</post-id>	</item>
+			</item>
 		<item>
 		<title>Eastern Philosophies and Western Religions: Exploring Contrasts and Lessons for Humanity</title>
 		<link>/eastern-philosophies-and-western-religions/</link>
@@ -156,7 +153,7 @@
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Philosophy]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/eastern-philosophies-and-western-religions-exploring-contrasts-and-lessons-for-humanity/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/eastern-philosophies-and-western-religions-exploring-contrasts-and-lessons-for-humanity/</guid>
 
 					<description><![CDATA[Throughout history, humanity has sought answers to profound questions about existence, purpose, and the nature of reality. This quest has led to the development of diverse belief systems and philosophical traditions across the globe. In this post, we will compare the history of Eastern philosophies and Western religions, their evolutionary development, and the establishment of schools and temples, with the Western approach to religion, characterized by politically motivated churches, witch covens, and the Inquisition. By examining these differences, we can glean valuable insights and lessons for humanity&#8217;s collective growth and understanding. Eastern Philosophies: Evolutionary Development and Spiritual &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -233,7 +230,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">881</post-id>	</item>
+			</item>
 		<item>
 		<title>Sigmund Freud and Carl Jung: Contributions to Contemporary Occultist Thought</title>
 		<link>/sigmund-freud-and-carl-jung-contributions-to-contemporary-occultist-thought/</link>
@@ -244,7 +241,7 @@
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Philosophy]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/?p=110</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=110</guid>
 
 					<description><![CDATA[Both Sigmund Freud and Carl Jung have had a significant impact on contemporary occultism, including their ideas on dreams, the unconscious mind, and the collective unconscious. These psychological concepts have found resonance and integration within modern occult systems, including Thelema and chaos magick. Let&#8217;s explore this influence and overlap in more detail: 1. Freud and Dreams: Freud proposed that dreams are a gateway to the unconscious mind, containing hidden desires, repressed thoughts, and symbolic representations of unresolved conflicts. His psychoanalytic approach to dream interpretation emphasized the role of personal unconscious material, such as sexual and aggressive instincts, &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -309,6 +306,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">110</post-id>	</item>
+			</item>
 	</channel>
 </rss>

@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,7 +27,7 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>Notes on WSPR Mode</title>
 		<link>/notes-on-wspr-mode/</link>
 		
@@ -38,7 +35,7 @@
 		<pubDate>Fri, 07 Jul 2023 23:13:51 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Ham Radio]]></category>
-		<guid isPermaLink="false">/notes-on-wspr-mode/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/notes-on-wspr-mode/</guid>
 
 					<description><![CDATA[WSPR (Weak Signal Propagation Reporter) is a digital communication mode used in amateur radio. It is designed for sending and receiving very low-power signals, typically in the milliwatt range, over long distances using radio waves. WSPR enables the study of radio propagation and provides valuable data for understanding how signals propagate under various conditions. WSPR operates by transmitting short data packets containing the station&#8217;s call sign, location, and power level on a specific frequency. These transmissions are received by other WSPR stations, and the data is collected and uploaded to online databases such as WSPRNet. WSPRNet is &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -63,7 +60,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">936</post-id>	</item>
+			</item>
 		<item>
 		<title>Ham Radio and Contemporary Occultism: Exploring Overlapping Realms</title>
 		<link>/ham-radio-and-contemporary-occultism-exploring-overlapping-realms/</link>
@@ -74,7 +71,7 @@
 		<category><![CDATA[Ham Radio]]></category>
 		<category><![CDATA[Humor]]></category>
 		<category><![CDATA[radio]]></category>
-		<guid isPermaLink="false">/?p=99</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=99</guid>
 
 					<description><![CDATA[The realms of ham radio and contemporary occultism, particularly Thelema, may at first seem disconnected, but upon closer examination, intriguing overlaps emerge. Both pursuits share common threads of exploration, experimentation, and a fascination with hidden knowledge. Let&#8217;s delve into how these seemingly distinct realms can intersect and how practitioners of ham radio and Thelema can find common ground. 1. Communication and Connection: One of the primary functions of ham radio is communication, enabling operators to connect with fellow enthusiasts around the world. Similarly, contemporary occultism, including Thelema, emphasizes the pursuit of communication with forces beyond the mundane &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -135,7 +132,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">99</post-id>	</item>
+			</item>
 		<item>
 		<title>A Brief History of Ham</title>
 		<link>/a-brief-history-of-ham/</link>
@@ -144,7 +141,7 @@
 		<pubDate>Tue, 04 Jul 2023 15:05:35 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Ham Radio]]></category>
-		<guid isPermaLink="false">/?p=84</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=84</guid>
 
 					<description><![CDATA[Ham radio, also known as amateur radio, has a rich and fascinating history that spans over a century. It is a hobby and communication service that allows licensed operators to communicate with others around the world using radio waves. Let&#8217;s delve into the captivating history of ham radio and its evolution from early experiments to a global community of passionate radio enthusiasts. 1. Early Experiments and Spark Gap Transmitters: The roots of ham radio can be traced back to the late 19th century when inventors like Guglielmo Marconi and Nikola Tesla conducted pioneering experiments in wireless telegraphy. &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -237,7 +234,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">84</post-id>	</item>
+			</item>
 		<item>
 		<title>Ham Radio and Psychedelic Drugs</title>
 		<link>/ham-radio-and-psychedelic-drugs/</link>
@@ -247,7 +244,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Ham Radio]]></category>
 		<category><![CDATA[Humor]]></category>
-		<guid isPermaLink="false">/?p=82</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=82</guid>
 
 					<description><![CDATA[The Overlap of Psychedelic Drugs and Ham Radio: Exploring Inner and Outer Frontiers The realms of psychedelic drugs and ham radio might seem vastly different at first glance, but beneath the surface, intriguing connections can be found. Both pursuits involve exploration, altered states of consciousness, and the quest for connection—albeit through different means. Let&#8217;s delve into how psychedelic experiences and ham radio can overlap and intersect, revealing unique perspectives on human consciousness and communication. 1. Exploration of Consciousness: Psychedelic substances have long been associated with expanded states of consciousness, opening doors to profound insights, mystical experiences, and &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -316,6 +313,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">82</post-id>	</item>
+			</item>
 	</channel>
 </rss>

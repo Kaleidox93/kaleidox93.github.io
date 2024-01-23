@@ -5,9 +5,6 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -30,14 +27,14 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">222527107</site>	<item>
+	<item>
 		<title>The Role of N95 Respirators in Public Health: Understanding, Efficacy, and Misinformation</title>
 		<link>/the-role-of-n95-respirators/</link>
 		
 		<dc:creator><![CDATA[Tobit]]></dc:creator>
 		<pubDate>Wed, 17 Jan 2024 16:32:44 +0000</pubDate>
 				<category><![CDATA[All]]></category>
-		<guid isPermaLink="false">/?p=2335</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=2335</guid>
 
 					<description><![CDATA[Personal Introduction As a lifelong Libertarian and the author of this article, I consider mandates such as mask-wearing to be akin to seatbelt laws, or regulations against any behavior that is not immediately life-threatening. However, common sense should prevail in public health, especially during crises like the COVID-19 pandemic. We must educate ourselves in order to make sound decisions with less interference, whether that interference is from governments, large corporations, or politicians exploiting the poorly educated by misrepresenting basic science. In this article, we will address some of the misinformation that has circulated regarding the role of &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -438,7 +435,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">2335</post-id>	</item>
+			</item>
 		<item>
 		<title>Exploring Symbolic and Quantum Parallels</title>
 		<link>/technoshamanism/</link>
@@ -453,7 +450,7 @@
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
 		<category><![CDATA[technoshamanism]]></category>
-		<guid isPermaLink="false">/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/exploring-symbolic-and-quantum-parallels-the-unicursal-hexagram-yin-yang-and-quantum-philosophy/</guid>
 
 					<description><![CDATA[Similarities in Symbolism The unicursal hexagram of Thelema and the Eastern Yin Yang symbol offer insightful philosophical parallels with the intriguing principles of quantum physics, particularly resonating with Niels Bohr’s concept of complementarity. This union gives birth to technoshamanism. The Yin Yang and Quantum Theory: In the Yin Yang’s flowing, interconnected nature, we see a reflection of the unicursal hexagram’s depiction of inseparable, opposing forces. This symbolic resonance is mirrored in the realm of quantum theory, where subatomic particles exist in a probabilistic haze, oscillating between contradictory states such as wave and particle, influenced by observation. This &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -554,7 +551,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">2058</post-id>	</item>
+			</item>
 		<item>
 		<title>A Conversation With a Very Artificial Intelligence</title>
 		<link>/a-conversation-with-a-very-artificial-intelligence/</link>
@@ -562,7 +559,7 @@
 		<dc:creator><![CDATA[Firsto Lasto]]></dc:creator>
 		<pubDate>Sat, 28 Oct 2023 19:06:36 +0000</pubDate>
 				<category><![CDATA[All]]></category>
-		<guid isPermaLink="false">/?p=1942</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=1942</guid>
 
 					<description><![CDATA[It is always fun hassling ChatGPT. ADS-B epoch time seemed off, and I asked ChatGPT to explain why. The result was first concerning, but then amusing. Me: Can you tell if there is a time/date stamp in this JSON data from an ADS-B feed?{ &#8220;now&#8221; : 1698111965.7, &#8220;messages&#8221; : 423336, aircaft&#160; &#8220;aircraft&#8221; : [ &#60;/snip&#62; &#160; ChatGPT: Yes, the value next to &#8220;now&#8221; appears to be a date stamp in epoch time format. In the JSON data you provided, &#8220;now&#8221; has a value of 1698111965.7, which represents a Unix timestamp in seconds with fractional seconds. You can &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -855,7 +852,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1942</post-id>	</item>
+			</item>
 		<item>
 		<title>The Role of the Ars Goetia within Thelema</title>
 		<link>/ars-goetia/</link>
@@ -866,7 +863,7 @@
 		<category><![CDATA[Magick]]></category>
 		<category><![CDATA[Thelema]]></category>
 		<category><![CDATA[magick]]></category>
-		<guid isPermaLink="false">/the-role-of-the-ars-goetia-within-thelema/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/the-role-of-the-ars-goetia-within-thelema/</guid>
 
 					<description><![CDATA[The Ars Goetia, also known as The Lesser Key of Solomon, is a 17th-century grimoire, or book of magick that describes the 72 demons of Hell, which are known as the Goetia. It is believed that the Goetia can be controlled, or at least bargained with, by practitioners of ceremonial magick. The book is divided into two parts: the first part lists the demons, their names, ranks, and sigils; the second part provides instructions on how to summon and control the demons. The Ars Goetia describes Hell as having a complex, hierarchical political system. Each demon has &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -935,7 +932,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1028</post-id>	</item>
+			</item>
 		<item>
 		<title>Maldoror Meets Joker</title>
 		<link>/maldoror-meets-joker/</link>
@@ -944,7 +941,7 @@
 		<pubDate>Sun, 09 Jul 2023 02:57:51 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Fiction]]></category>
-		<guid isPermaLink="false">/maldoror-meets-joker/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/maldoror-meets-joker/</guid>
 
 					<description><![CDATA[&#8220;It is not right that everyone should read the pages which follow; only a few will be able to savour this bitter fruit with impunity. Consequently, shrinking soul, turn on your heels and go back before penetrating further into such uncharted, perilous wastelands.&#8221; — Maldoror, Part I,&#160; Part 1. In a dimly lit corner of the decrepit bar, shrouded in an atmosphere teeming with sinister secrets, Maldoror sat patiently in a booth, his features hidden beneath the shadowy haze. He had arrived early, as was his meticulous nature, awaiting the arrival of someone he had only heard whispers &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1077,7 +1074,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">954</post-id>	</item>
+			</item>
 		<item>
 		<title>Notes on Masonry and Comparison to Other Orders</title>
 		<link>/superficial-notes-on-masonry-and-a-very-brief-comparison-to-other-occult-orders/</link>
@@ -1087,7 +1084,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Humor]]></category>
 		<category><![CDATA[Occult Groups]]></category>
-		<guid isPermaLink="false">/?p=140</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/?p=140</guid>
 
 					<description><![CDATA[1. Origins and History: &#8211; Rosicrucianism: Rosicrucianism emerged in the early 17th century with the publication of the Rosicrucian manifestos. It gained popularity in Europe during the Renaissance and Enlightenment periods. &#8211; Freemasonry: Freemasonry has ancient roots and evolved from medieval stonemason guilds. The modern form of Freemasonry emerged in the 17th and 18th centuries, with lodges established throughout Europe and later in other parts of the world. 2. Membership and Organization: &#8211; Rosicrucianism: Rosicrucians often form smaller, esoteric and philosophical study groups or mystical orders. Membership is typically limited to individuals who have a sincere interest &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1282,7 +1279,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">140</post-id>	</item>
+			</item>
 		<item>
 		<title>Notes on WSPR Mode</title>
 		<link>/notes-on-wspr-mode/</link>
@@ -1291,7 +1288,7 @@
 		<pubDate>Fri, 07 Jul 2023 23:13:51 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Ham Radio]]></category>
-		<guid isPermaLink="false">/notes-on-wspr-mode/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/notes-on-wspr-mode/</guid>
 
 					<description><![CDATA[WSPR (Weak Signal Propagation Reporter) is a digital communication mode used in amateur radio. It is designed for sending and receiving very low-power signals, typically in the milliwatt range, over long distances using radio waves. WSPR enables the study of radio propagation and provides valuable data for understanding how signals propagate under various conditions. WSPR operates by transmitting short data packets containing the station&#8217;s call sign, location, and power level on a specific frequency. These transmissions are received by other WSPR stations, and the data is collected and uploaded to online databases such as WSPRNet. WSPRNet is &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1316,7 +1313,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">936</post-id>	</item>
+			</item>
 		<item>
 		<title>The Musical Journey of Coil</title>
 		<link>/the-musical-journey-of-coil/</link>
@@ -1326,7 +1323,7 @@
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Music]]></category>
 		<category><![CDATA[music]]></category>
-		<guid isPermaLink="false">/the-musical-journey-of-coil/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/the-musical-journey-of-coil/</guid>
 
 					<description><![CDATA[In the vast and enigmatic realm of experimental music, few bands have managed to captivate and bewilder audiences quite like Coil. Known for their esoteric soundscapes, provocative lyrics, and unapologetic exploration of occult themes, Coil&#8217;s musical journey transcended the boundaries of conventional music, paving the way for a new wave of sonic exploration. This blog post delves deep into the mystical world of Coil, their profound fascination with the occult, and their enduring influence on other bands. Coil, formed in 1982 by the enigmatic duo of John Balance and Peter Christopherson, embraced the occult as a central &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1383,7 +1380,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">929</post-id>	</item>
+			</item>
 		<item>
 		<title>Exploring the Enigmatic Depths: A Deep Dive into Dark Ambient Music</title>
 		<link>/dark-ambient/</link>
@@ -1392,7 +1389,7 @@
 		<pubDate>Fri, 07 Jul 2023 23:00:59 +0000</pubDate>
 				<category><![CDATA[Music]]></category>
 		<category><![CDATA[music]]></category>
-		<guid isPermaLink="false">/exploring-the-enigmatic-depths-a-deep-dive-into-dark-ambient-music/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/exploring-the-enigmatic-depths-a-deep-dive-into-dark-ambient-music/</guid>
 
 					<description><![CDATA[Introduction to Dark Ambient Music Within the expansive realm of ambient music, a subgenre exists that delves into the shadows. It conjures a sense of foreboding and mystery. This subgenre, known as dark ambient, harnesses atmospheric soundscapes to create an eerie and otherworldly sonic experience. In this post, we embark on an exploration of dark ambient. We will focus on the works of Coil and Lustmord, two major contributors to the genre. We will also examine examples of Description of Audio Dark ambient is a genre that immerses the listener in haunting and atmospheric soundscapes. It evokes &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1575,7 +1572,7 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">927</post-id>	</item>
+			</item>
 		<item>
 		<title>The Symbiosis of Sensations: Frisson and Dark Ambient Music</title>
 		<link>/the-symbiosis-of-sensations-exploring-asmr-frissons-and-dark-ambient-music/</link>
@@ -1584,7 +1581,7 @@
 		<pubDate>Fri, 07 Jul 2023 22:58:27 +0000</pubDate>
 				<category><![CDATA[All]]></category>
 		<category><![CDATA[Music]]></category>
-		<guid isPermaLink="false">/the-symbiosis-of-sensations-exploring-asmr-frissons-and-dark-ambient-music/</guid>
+		<guid isPermaLink="false">https://www.virginorpigeon.org/the-symbiosis-of-sensations-exploring-asmr-frissons-and-dark-ambient-music/</guid>
 
 					<description><![CDATA[Frisson and ASMR In the vast and intricate world of sensory experiences, certain phenomena and artistic expressions intertwine to create unique and profound moments of perception. This blog post delves into the captivating realms of ASMR (Autonomous Sensory Meridian Response), frissons (chills or tingling sensations), dark ambient music, the band Coil, and their intriguing connections to LSD, ketamine, and the occultist Aleister Crowley. Prepare to embark on a journey that intertwines the ethereal, the sensory, and the mystical. Autonomous Sensory Meridian Response ASMR, a phenomenon characterized by pleasurable tingling sensations that typically originate from auditory or visual &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -1677,6 +1674,6 @@
 					
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">923</post-id>	</item>
+			</item>
 	</channel>
 </rss>
